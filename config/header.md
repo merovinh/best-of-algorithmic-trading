@@ -1,11 +1,11 @@
 <!-- markdownlint-disable -->
 <h1 align="center">
-    best-of-algorithmic-trading
+    Best-of Algorithmic Trading
     <br>
 </h1>
 
 <p align="center">
-    <strong>🏆&nbsp; A ranked list of awesome projects. Updated weekly.</strong>
+    <strong>🏆&nbsp; A ranked list of algorithmic trading open-source libraries, frameworks, bots, tools, books, communities, education materials. Updated weekly.</strong>
 </p>
 
 <p align="center">
