@@ -1,11 +1,11 @@
 <!-- markdownlint-disable -->
 <h1 align="center">
-    best-of-algorithmic-trading
+    Best-of Algorithmic Trading
     <br>
 </h1>
 
 <p align="center">
-    <strong>🏆&nbsp; A ranked list of awesome projects. Updated weekly.</strong>
+    <strong>🏆&nbsp; A ranked list of algorithmic trading open-source libraries, frameworks, bots, tools, books, communities, education materials. Updated weekly.</strong>
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@ This curated list contains 1 awesome open-source projects with a total of 20K st
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/freqtrade/freqtrade">freqtrade</a></b> (🥇30 ·  ⭐ 20K · ➕) - Free, open source crypto trading bot. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/freqtrade/freqtrade">freqtrade</a></b> (🥇30 ·  ⭐ 20K) - Free, open source crypto trading bot. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/freqtrade/freqtrade) (👨‍💻 280 · 🔀 4.1K · 📋 3.5K - 1% open · ⏱️ 06.01.2023):
 
