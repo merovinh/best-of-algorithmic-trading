@@ -175,8 +175,6 @@ projects:
     labels: ["nodejs"]
   - name: Inside the Black Box: A Simple Guide to Quantitative and High Frequency Trading
     labels: ["books"]
-    homepage: "https://www.amazon.com/Inside-Black-Box-Quantitative-Frequency-ebook/dp/B00BZ9WAVW"
   - name: Node.js Algo Traders
     labels: ["communities"]
-    homepage: "https://t.me/nodetraders"
   
