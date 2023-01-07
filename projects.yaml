@@ -8,9 +8,10 @@ categories:
     # subtitle: ""
   - category: "libraries-api"
     title: "Libraries & API"
-  # - category: "data-engineering"
-  #   title: "Machine Learning & Data Engineering"
-  #   subtitle: "Best-of lists about machine learning, data engieering, data science, or other topics related to big data."
+  - category: "books"
+    title: "Books"
+  - category: "communities"
+    title: "Communities"
 
 labels:
   - label: "python"
@@ -173,4 +174,13 @@ projects:
     category: bots-frameworks
     labels: ["nodejs"]
     
+  - name: Inside the Black Box: A Simple Guide to Quantitative and High Frequency Trading
+    resource: true
+    labels: ["books"]
+    homepage: "https://www.amazon.com/Inside-Black-Box-Quantitative-Frequency-ebook/dp/B00BZ9WAVW"
     
+  - name: Node.js Algo Traders
+    resource: true
+    labels: ["communities"]
+    homepage: "https://t.me/nodetraders"
+  
