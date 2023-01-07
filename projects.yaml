@@ -173,8 +173,4 @@ projects:
     github_id: DeviaVir/zenbot
     category: bots-frameworks
     labels: ["nodejs"]
-  - name: Inside the Black Box: A Simple Guide to Quantitative and High Frequency Trading
-    labels: ["books"]
-  - name: Node.js Algo Traders
-    labels: ["communities"]
   
