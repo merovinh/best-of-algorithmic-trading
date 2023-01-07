@@ -31,6 +31,12 @@ labels:
   - label: "java"
     image: "https://cdn.icon-icons.com/icons2/195/PNG/256/Java_23404.png"
     description: "Java projects"
+  - label: "rust"
+    image: "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_rust_icon_130185.png"
+    description: "Rust projects"
+  - label: "go"
+    image: "https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_gopher_src_logo_icon_168155.png"
+    description: "Go projects"
 
 projects:
   - name: Freqtrade
@@ -63,6 +69,7 @@ projects:
     labels: ["nodejs"]
   - name: CCXT
     github_id: ccxt/ccxt
+    npm_id: ccxt
     category: libraries-api
     labels: ["python", "nodejs", "php"]
   - name: binance-api-node
@@ -93,5 +100,77 @@ projects:
     npm_id: bitget-api
     category: libraries-api
     labels: ["nodejs"]
-  
+  - name: Gekko
+    github_id: askmike/gekko
+    category: bots-frameworks
+    labels: ["nodejs"]
+  - name: backtrader
+    github_id: mementum/backtrader
+    category: libraries-api
+    labels: ["python"]
+  - name: bTrader
+    github_id: gabriel-milan/btrader
+    category: bots-frameworks
+    labels: ["rust"]
+  - name: Node Binance Trader NBT
+    github_id: bitcoinvsalts/node-binance-trader
+    category: bots-frameworks
+    labels: ["nodejs"]
+  - name: Cassandre trading bot
+    github_id: cassandre-trading-bot
+    category: bots-frameworks
+    labels: ["java"]
+  - name: Crypto Trading Bot
+    github_id: Haehnchen/crypto-trading-bot
+    category: bots-frameworks
+    labels: ["nodejs"]
+  - name: Crypto Signal
+    github_id: CryptoSignal/Crypto-Signal
+    category: bots-frameworks
+    labels: ["python"]
+  - name: Fast Trade
+    github_id: jrmeier/fast-trade
+    category: libraries-api
+    labels: ["python"]
+  - name: Frostybot-JS
+    github_id: CryptoMF/frostybot-js
+    category: libraries-api
+    labels: ["nodejs"]
+  - name: K
+    github_id: ctubio/Krypto-trading-bot
+    category: bots-frameworks
+    labels: ["cplusplus"]
+  - name: Kelp
+    github_id: stellar/kelp
+    category: bots-frameworks
+    labels: ["go"]
+  - name: Magic8bot
+    github_id: magic8bot/magic8bot
+    category: bots-frameworks
+    labels: ["nodejs"]
+  - name: OctoBot
+    github_id: Drakkar-Software/OctoBot
+    category: bots-frameworks
+    labels: ["python"]
+  - name: Qt Bitcoin Trader
+    github_id: JulyIghor/QtBitcoinTrader
+    category: bots-frameworks
+    labels: ["cplusplus"]
+  - name: Superalgos
+    github_id: Superalgos/Superalgos
+    category: bots-frameworks
+    labels: ["nodejs"]
+  - name: WolfBot
+    github_id: Ekliptor/WolfBot
+    category: bots-frameworks
+    labels: ["nodejs"]
+  - name: Wolfinch
+    github_id: ldmonko/wolfinch
+    category: bots-frameworks
+    labels: ["python"]
+  - name: Zenbot
+    github_id: DeviaVir/zenbot
+    category: bots-frameworks
+    labels: ["nodejs"]
+    
     
