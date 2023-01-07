@@ -11,15 +11,34 @@ categories:
   #   subtitle: "Best-of lists about machine learning, data engieering, data science, or other topics related to big data."
 
 labels:
-  # - label: "python"
-  #   image: "https://www.python.org/static/favicon.ico"
-  #   description: "Best-of list with Python projects"
+  - label: "python"
+    image: "https://www.python.org/static/favicon.ico"
+    description: "Python projects"
+  - label: "nodejs"
+    image: "https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png"
+    description: "NodeJS projects"
+  - label: "csharp"
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png"
+    description: "C# projects"
 
 projects:
-  - name: freqtrade
+  - name: Freqtrade
     github_id: freqtrade/freqtrade
     category: bots-frameworks
-  # - name: best-of-ml-python
-  #   github_id: ml-tooling/best-of-ml-python
-  #   labels: ["python"]
-  #   category: "data-engineering"
+    labels: ["python"]
+  - name: Hummingbot
+    github_id: hummingbot/hummingbot
+    category: bots-frameworks
+    labels: ["python"]
+  - name: Jesse
+    github_id: jesse-ai/jesse
+    category: bots-frameworks
+    labels: ["python"]
+  - name: Mida
+    github_id: Reiryoku-Technologies/Mida
+    category: bots-frameworks
+    labels: ["nodejs"]
+  - name: Lean
+    github_id: QuantConnect/Lean
+    category: bots-frameworks
+    labels: ["python", "csharp"]
