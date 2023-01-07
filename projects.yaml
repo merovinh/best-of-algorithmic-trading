@@ -6,6 +6,8 @@ categories:
   - category: "bots-frameworks"
     title: "Bots & Frameworks"
     # subtitle: ""
+  - category: "libraries-api"
+    title: "Libraries & API"
   # - category: "data-engineering"
   #   title: "Machine Learning & Data Engineering"
   #   subtitle: "Best-of lists about machine learning, data engieering, data science, or other topics related to big data."
@@ -17,9 +19,18 @@ labels:
   - label: "nodejs"
     image: "https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png"
     description: "NodeJS projects"
+  - label: "cplusplus"
+    image: "https://cdn.icon-icons.com/icons2/2148/PNG/512/c_icon_132529.png"
+    description: "C++ projects"
   - label: "csharp"
     image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png"
     description: "C# projects"
+  - label: "php"
+    image: "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png"
+    description: "PHP projects"
+  - label: "java"
+    image: "https://cdn.icon-icons.com/icons2/195/PNG/256/Java_23404.png"
+    description: "Java projects"
 
 projects:
   - name: Freqtrade
@@ -42,3 +53,45 @@ projects:
     github_id: QuantConnect/Lean
     category: bots-frameworks
     labels: ["python", "csharp"]
+  - name: Blackbird
+    github_id: butor/blackbird
+    category: bots-frameworks
+    labels: ["cplusplus"]
+  - name: TriangularArbitrage
+    github_id: tiagosiebler/TriangularArbitrage
+    category: bots-frameworks
+    labels: ["nodejs"]
+  - name: CCXT
+    github_id: ccxt/ccxt
+    category: libraries-api
+    labels: ["python", "nodejs", "php"]
+  - name: binance-api-node
+    github_id: binance-exchange/binance-api-node
+    category: libraries-api
+    labels: ["nodejs"]
+  - name: binance-java-api
+    github_id: binance-exchange/binance-java-api
+    category: libraries-api
+    labels: ["java"]
+  - name: Node.js & Typescript Binance API SDK
+    github_id: tiagosiebler/binance
+    npm_id: binance
+    category: libraries-api
+    labels: ["nodejs"]
+  - name: Node.js & Typescript Bybit API SDK
+    github_id: tiagosiebler/bybit-api
+    npm_id: bybit-api
+    category: libraries-api
+    labels: ["nodejs"]
+  - name: Node.js & Typescript OKX (OKEX) API SDK
+    github_id: tiagosiebler/okx-api
+    npm_id: okx-api
+    category: libraries-api
+    labels: ["nodejs"]
+  - name: Node.js & Typescript Bitget API SDK
+    github_id: tiagosiebler/bitget-api
+    npm_id: bitget-api
+    category: libraries-api
+    labels: ["nodejs"]
+  
+    
