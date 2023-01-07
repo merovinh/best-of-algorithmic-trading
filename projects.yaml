@@ -174,11 +174,9 @@ projects:
     category: bots-frameworks
     labels: ["nodejs"]
   - name: Inside the Black Box: A Simple Guide to Quantitative and High Frequency Trading
-    resource: True
     labels: ["books"]
     homepage: "https://www.amazon.com/Inside-Black-Box-Quantitative-Frequency-ebook/dp/B00BZ9WAVW"
   - name: Node.js Algo Traders
-    resource: True
     labels: ["communities"]
     homepage: "https://t.me/nodetraders"
   
