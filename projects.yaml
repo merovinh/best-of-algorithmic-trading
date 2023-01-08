@@ -209,7 +209,31 @@ projects:
     category: books
     homepage: "https://a.co/d/dr8n0VV"
     description: "Learn how to implement high-frequency trading from scratch with C++ or Java basics"
-    
+  - name: Algorithmic Trading: Winning Strategies and Their Rationale
+    resource: True
+    category: books
+    homepage: "https://a.co/d/3qRbZEe"
+    description: Winning Strategies and Their Rationale
+  - name: Python for Algorithmic Trading
+    resource: True
+    category: books
+    homepage: "https://a.co/d/3g8wHDC"
+    description: From Idea to Cloud Deployment
+  - name: Quantitative Trading
+    resource: True
+    category: books
+    homepage: "https://a.co/d/8AKZ81H"
+    description: "How to Build Your Own Algorithmic Trading Business (Wiley Trading)"
+  - name: Algorithmic Trading with Interactive Brokers
+    resource: True
+    category: books
+    homepage: "https://a.co/d/0BG4zaW"
+    description: "(Python and C++)"
+  - name: Automated Stock Trading Systems
+    resource: True
+    category: books
+    homepage: "https://a.co/d/70Kf40O"
+    description: "A Systematic Approach for Traders to Make Money in Bull, Bear and Sideways Markets"
   - name: Inside the Black Box
     resource: True
     category: books
