@@ -14,6 +14,8 @@ categories:
     title: "Books"
   - category: "youtube"
     title: "Youtube"
+  - category: "courses"
+    title: "Courses"
   - category: "communities"
     title: "Communities"
 
@@ -422,6 +424,47 @@ projects:
     category: youtube
     homepage: "https://www.youtube.com/@ecoengineering7535"
     description: "Algorithmic trading and optimizing the trading strategies by using MQL and Python languages"
+    
+  - name: Algorithmic Trading A-Z with Python, Machine Learning & AWS
+    resource: True
+    category: courses
+    homepage: "https://www.udemy.com/course/algorithmic-trading-with-python-and-machine-learning/"
+    description: "Build your own truly Data-driven Day Trading Bot | Learn how to create, test, implement & automate unique Strategies"
+  - name: Investment Management with Python and Machine Learning Specialization
+    resource: True
+    category: courses
+    homepage: "https://www.coursera.org/specializations/investment-management-python-machine-learning"
+    description: "Write custom Python code and use existing Python libraries to build and analyse efficient portfolio strategies"
+  - name: Algorithmic Trading on KiteConnect Platform
+    resource: True
+    category: courses
+    homepage: "https://www.udemy.com/course/algorithmic-trading-on-zerodha-kiteconnect-platform/"
+    description: "Design and deploy trading strategies on Kiteconnect platform"
+  - name: Complete algorithmic forex trading and back testing system
+    resource: True
+    category: courses
+    homepage: "https://www.udemy.com/course/complete-algorthmic-forex-trading-and-back-testing-system/"
+    description: "Develop robust systems for trading, backtesting, web scraping and web application development"
+  - name: Algorithmic Trading & Quantitative Analysis Using Python
+    resource: True
+    category: courses
+    homepage: "https://www.udemy.com/course/algorithmic-trading-quantitative-analysis-using-python/"
+    description: "Build fully automated trading system and Implement quantitative trading strategies using Python"
+  - name: Technical Analysis with Python for Algorithmic Trading
+    resource: True
+    category: courses
+    homepage: "https://www.udemy.com/course/technical-analysis-with-python-for-algorithmic-trading/"
+    description: "Use Technical Analysis and Indicators for (Day) Trading. Create, backtest and optimize TA Trading Strategies with Python"
+  - name: Cryptocurrency Algorithmic Trading with Python and Binance
+    resource: True
+    category: courses
+    homepage: "https://www.udemy.com/course/cryptocurrency-algorithmic-trading-with-python-and-binance/"
+    description: "Create powerful Trading Strategies and fully automated AWS Trading Bots for Bitcoin & co. | Spot and Futures Trading"
+  - name: Forex Algorithmic Trading Course: Code a Forex Robot!
+    resource: True
+    category: courses
+    homepage: "https://www.udemy.com/course/forex-algorithmic-trading-course-code-a-forex-robot/"
+    description: "Build a Completely Automated Trading Robot (Expert Advisor) from scratch using MQL4 (MetaQuotes Language 4)!"
 
   - name: Node.js Algo Traders
     resource: True
