@@ -203,7 +203,7 @@ projects:
     resource: True
     category: books
     homepage: "https://a.co/d/7FTaLDf"
-    description: The Successful Investor's Guide to Spotting Investment Trends and Turning Points 5th Edition
+    description: "The Successful Investor's Guide to Spotting Investment Trends and Turning Points 5th Edition"
   - name: Quantitative Investing
     resource: True
     category: books
