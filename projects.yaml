@@ -8,6 +8,8 @@ categories:
     # subtitle: ""
   - category: "libraries-api"
     title: "Libraries & API"
+  - category: "ta"
+    title: "Technical analysis & Indicators"
   - category: "books"
     title: "Books"
   - category: "communities"
@@ -20,6 +22,9 @@ labels:
   - label: "nodejs"
     image: "https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png"
     description: "NodeJS projects"
+  - label: "c"
+    image: "https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png"
+    description: "C projects"
   - label: "cplusplus"
     image: "https://cdn.icon-icons.com/icons2/2148/PNG/512/c_icon_132529.png"
     description: "C++ projects"
@@ -176,6 +181,19 @@ projects:
     github_id: DeviaVir/zenbot
     category: bots-frameworks
     labels: ["nodejs"]
+    
+  - name: Tulip Indicators
+    github_id: TulipCharts/tulipindicators
+    category: ta
+    labels: ["c"]
+  - name: Tulip Node
+    github_id: TulipCharts/tulipnode
+    category: ta
+    labels: ["nodejs"]
+  - name: TA-Lib
+    github_id: mrjbq7/ta-lib
+    category: ta
+    labels: ["python"]
     
   - name: ALGO TRADING CHEAT CODES
     resource: True
