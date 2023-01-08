@@ -12,6 +12,8 @@ categories:
     title: "Technical analysis & Indicators"
   - category: "books"
     title: "Books"
+  - category: "youtube"
+    title: "Youtube"
   - category: "communities"
     title: "Communities"
 
@@ -379,6 +381,47 @@ projects:
     category: books
     homepage: "https://a.co/d/irZteKp"
     description: Strategies to exploit stock market anomalies for all investors
+    
+  - name: Part Time Larry
+    resource: True
+    category: youtube
+    homepage: "https://www.youtube.com/@parttimelarry"
+    description: "Write programs to analyze, visualize, integrate, and utilize market data, API's, and financial services"
+  - name: Moon Dev
+    resource: True
+    category: youtube
+    homepage: "https://www.youtube.com/@moondevonyt"
+    description: "I like coding & finance a lot and i really love teaching!"
+  - name: Coding Jesus
+    resource: True
+    category: youtube
+    homepage: "https://www.youtube.com/@CodingJesus"
+    description: "Channel's purpose is to shine a positive light on the often difficult to navigate world of algorithmic trading"
+  - name: The Art of Trading
+    resource: True
+    category: youtube
+    homepage: "https://www.youtube.com/@TheArtofTrading"
+    description: "Strategy creation, Pine Script coding and of course my personal favorite - trading psychology."
+  - name: Algo Trading With Kevin Davey
+    resource: True
+    category: youtube
+    homepage: "https://www.youtube.com/@AlgoTradingWithKevinDavey"
+    description: "Futures trading, trading systems, trading strategies and also intermediate and advanced level topics in the algo world"
+  - name: Algo-trading with Saleh
+    resource: True
+    category: youtube
+    homepage: "https://www.youtube.com/@saleh.m"
+    description: "Practical tutorials about algo-trading with Python"
+  - name: TradeSmart
+    resource: True
+    category: youtube
+    homepage: "https://www.youtube.com/@TradeSmart22"
+    description: "Backtesting and optimizing day trading strategies"
+  - name: EcoEngineering
+    resource: True
+    category: youtube
+    homepage: "https://www.youtube.com/@ecoengineering7535"
+    description: "Algorithmic trading and optimizing the trading strategies by using MQL and Python languages"
 
   - name: Node.js Algo Traders
     resource: True
@@ -391,5 +434,11 @@ projects:
     category: communities
     homepage: "https://t.me/algotradingcrypto"
     description: "Ideas, tools, strategies discussion"
+    labels: ["telegram"]
+  - name: PineScripters
+    resource: True
+    category: communities
+    homepage: "https://t.me/pinescripters"
+    description: The biggest and most active independent community of TradingView programmers in the world, a place to share ideas, resources, and to learn.
     labels: ["telegram"]
     
