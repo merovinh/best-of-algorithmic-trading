@@ -10,12 +10,12 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-38-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-45-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/merovinh/best-of-algorithmic-trading/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/merovinh/best-of-algorithmic-trading?color=green&label=updated"></a>
 </p>
 
-This curated list contains 38 awesome open-source projects with a total of 120K stars grouped into 4 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/merovinh/best-of-algorithmic-trading/issues/new/choose), submit a [pull request](https://github.com/merovinh/best-of-algorithmic-trading/pulls), or directly edit the [projects.yaml](https://github.com/merovinh/best-of-algorithmic-trading/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 45 awesome open-source projects with a total of 120K stars grouped into 4 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/merovinh/best-of-algorithmic-trading/issues/new/choose), submit a [pull request](https://github.com/merovinh/best-of-algorithmic-trading/pulls), or directly edit the [projects.yaml](https://github.com/merovinh/best-of-algorithmic-trading/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -23,7 +23,7 @@ This curated list contains 38 awesome open-source projects with a total of 120K 
 
 - [Bots & Frameworks](#bots--frameworks) _21 projects_
 - [Libraries & API](#libraries--api) _10 projects_
-- [Books](#books) _7 projects_
+- [Books](#books) _14 projects_
 - [Communities](#communities) _0 projects_
 
 ## Explanation
@@ -228,6 +228,20 @@ This curated list contains 38 awesome open-source projects with a total of 120K 
 ## Books
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+🔗&nbsp;<b><a href="https://a.co/d/clZdkkf">ALGO TRADING CHEAT CODES</a></b>  - Techniques For Traders To Quickly And Efficiently Develop Better..
+
+🔗&nbsp;<b><a href="https://a.co/d/4QI2fDU">Entry and Exit Confessions of a Champion Trader</a></b>  - 52 Ways A Professional Speculator Gets In And Out Of..
+
+🔗&nbsp;<b><a href="https://a.co/d/fpqbVFq">Introduction To Algo Trading</a></b>  - How Retail Traders Can Successfully Compete With Professional..
+
+🔗&nbsp;<b><a href="https://a.co/d/6C7tyK8">Algo Trading 2022</a></b>  - Techniques and Algorithmic Trading Systems for Successful Investing.
+
+🔗&nbsp;<b><a href="https://a.co/d/c1cWdjY">Machine Learning for Algorithmic Trading</a></b>  - Predictive models to extract signals from market and..
+
+🔗&nbsp;<b><a href="https://a.co/d/6z9xiIB">Algorithmic Trading</a></b>  - A Practitioners Guide.
+
+🔗&nbsp;<b><a href="https://a.co/d/dr8n0VV">Developing High-Frequency Trading Systems</a></b>  - Learn how to implement high-frequency trading from..
 
 🔗&nbsp;<b><a href="https://www.amazon.com/Inside-Black-Box-Quantitative-Frequency-ebook/dp/B00BZ9WAVW">Inside the Black Box</a></b>  - A Simple Guide to Quantitative and High Frequency Trading (Wiley Finance Book..
 
