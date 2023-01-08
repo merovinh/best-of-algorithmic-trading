@@ -10,12 +10,12 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-52-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-55-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/merovinh/best-of-algorithmic-trading/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/merovinh/best-of-algorithmic-trading?color=green&label=updated"></a>
 </p>
 
-This curated list contains 52 awesome open-source projects with a total of 120K stars grouped into 4 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/merovinh/best-of-algorithmic-trading/issues/new/choose), submit a [pull request](https://github.com/merovinh/best-of-algorithmic-trading/pulls), or directly edit the [projects.yaml](https://github.com/merovinh/best-of-algorithmic-trading/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 55 awesome open-source projects with a total of 130K stars grouped into 5 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/merovinh/best-of-algorithmic-trading/issues/new/choose), submit a [pull request](https://github.com/merovinh/best-of-algorithmic-trading/pulls), or directly edit the [projects.yaml](https://github.com/merovinh/best-of-algorithmic-trading/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -23,6 +23,7 @@ This curated list contains 52 awesome open-source projects with a total of 120K 
 
 - [Bots & Frameworks](#bots--frameworks) _21 projects_
 - [Libraries & API](#libraries--api) _10 projects_
+- [Technical analysis & Indicators](#technical-analysis--indicators) _3 projects_
 - [Books](#books) _19 projects_
 - [Communities](#communities) _2 projects_
 
@@ -43,6 +44,7 @@ This curated list contains 52 awesome open-source projects with a total of 120K 
 - 📦&nbsp; Number of dependent projects
 - <img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13">&nbsp; Python projects
 - <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13">&nbsp; NodeJS projects
+- <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" style="display:inline;" width="13" height="13">&nbsp; C projects
 - <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/c_icon_132529.png" style="display:inline;" width="13" height="13">&nbsp; C++ projects
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" style="display:inline;" width="13" height="13">&nbsp; C# projects
 - <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png" style="display:inline;" width="13" height="13">&nbsp; PHP projects
@@ -223,6 +225,32 @@ This curated list contains 52 awesome open-source projects with a total of 120K 
 - <b><a href="https://github.com/CryptoMF/frostybot-js">Frostybot-JS</a></b> (🥉12 ·  ⭐ 290 · 💀) - Frostybot-JS is a cryptocurrency trading API endpoint,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/tiagosiebler/okx-api">Node.js & Typescript OKX (OKEX) API SDK</a></b> (🥉11 ·  ⭐ 5 · 🐣) - Node.js SDK for the OKX APIs and WebSockets, with.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/tiagosiebler/bitget-api">Node.js & Typescript Bitget API SDK</a></b> (🥉9 ·  ⭐ 4 · 🐣) - Node.js SDK for the Bitget APIs and WebSockets, with.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code>
+</details>
+<br>
+
+## Technical analysis & Indicators
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+<details><summary><b><a href="https://github.com/TulipCharts/tulipindicators">Tulip Indicators</a></b> (🥉14 ·  ⭐ 660 · 💤) - Technical Analysis Indicator Function Library in C. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/TulipCharts/tulipindicators) (👨‍💻 3 · 🔀 130 · 📋 70 - 45% open · ⏱️ 23.02.2022):
+
+	```
+	git clone https://github.com/TulipCharts/tulipindicators
+	```
+</details>
+<details><summary><b><a href="https://github.com/TulipCharts/tulipnode">Tulip Node</a></b> (🥉11 ·  ⭐ 450 · ➕) - Tulip Node is the official node.js wrapper for Tulip.. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/TulipCharts/tulipnode) (👨‍💻 7 · 🔀 77 · 📋 60 - 18% open · ⏱️ 22.08.2022):
+
+	```
+	git clone https://github.com/TulipCharts/tulipnode
+	```
+</details>
+<details><summary>Show 1 hidden projects...</summary>
+
+- <b><a href="https://github.com/mrjbq7/ta-lib">TA-Lib</a></b> (🥇28 ·  ⭐ 7.3K · ➕) - Python wrapper for TA-Lib (http://ta-lib.org/). <code>❗Unlicensed</code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
 </details>
 <br>
 
