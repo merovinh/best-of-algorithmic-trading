@@ -10,14 +10,14 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-84-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-92-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/merovinh/best-of-algorithmic-trading/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/merovinh/best-of-algorithmic-trading?color=green&label=updated"></a>
 </p>
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua/)
 
-This curated list contains 84 awesome open-source projects with a total of 150K stars grouped into 6 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/merovinh/best-of-algorithmic-trading/issues/new/choose), submit a [pull request](https://github.com/merovinh/best-of-algorithmic-trading/pulls), or directly edit the [projects.yaml](https://github.com/merovinh/best-of-algorithmic-trading/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 92 awesome open-source projects with a total of 150K stars grouped into 7 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/merovinh/best-of-algorithmic-trading/issues/new/choose), submit a [pull request](https://github.com/merovinh/best-of-algorithmic-trading/pulls), or directly edit the [projects.yaml](https://github.com/merovinh/best-of-algorithmic-trading/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -28,6 +28,7 @@ This curated list contains 84 awesome open-source projects with a total of 150K 
 - [Technical analysis & Indicators](#technical-analysis--indicators) _11 projects_
 - [Books](#books) _19 projects_
 - [Youtube](#youtube) _8 projects_
+- [Courses](#courses) _8 projects_
 - [Communities](#communities) _3 projects_
 
 ## Explanation
@@ -417,6 +418,28 @@ This curated list contains 84 awesome open-source projects with a total of 150K 
 🔗&nbsp;<b><a href="https://www.youtube.com/@TradeSmart22">TradeSmart</a></b>  - Backtesting and optimizing day trading strategies.
 
 🔗&nbsp;<b><a href="https://www.youtube.com/@ecoengineering7535">EcoEngineering</a></b>  - Algorithmic trading and optimizing the trading strategies by using MQL and Python..
+
+<br>
+
+## Courses
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+🔗&nbsp;<b><a href="https://www.udemy.com/course/algorithmic-trading-with-python-and-machine-learning/">Algorithmic Trading A-Z with Python, Machine Learning & AWS</a></b>  - Build your own truly Data-driven Day Trading Bot |..
+
+🔗&nbsp;<b><a href="https://www.coursera.org/specializations/investment-management-python-machine-learning">Investment Management with Python and Machine Learning Specialization</a></b>  - Write custom Python code and use existing Python..
+
+🔗&nbsp;<b><a href="https://www.udemy.com/course/algorithmic-trading-on-zerodha-kiteconnect-platform/">Algorithmic Trading on KiteConnect Platform</a></b>  - Design and deploy trading strategies on Kiteconnect..
+
+🔗&nbsp;<b><a href="https://www.udemy.com/course/complete-algorthmic-forex-trading-and-back-testing-system/">Complete algorithmic forex trading and back testing system</a></b>  - Develop robust systems for trading, backtesting, web..
+
+🔗&nbsp;<b><a href="https://www.udemy.com/course/algorithmic-trading-quantitative-analysis-using-python/">Algorithmic Trading & Quantitative Analysis Using Python</a></b>  - Build fully automated trading system and Implement..
+
+🔗&nbsp;<b><a href="https://www.udemy.com/course/technical-analysis-with-python-for-algorithmic-trading/">Technical Analysis with Python for Algorithmic Trading</a></b>  - Use Technical Analysis and Indicators for (Day)..
+
+🔗&nbsp;<b><a href="https://www.udemy.com/course/cryptocurrency-algorithmic-trading-with-python-and-binance/">Cryptocurrency Algorithmic Trading with Python and Binance</a></b>  - Create powerful Trading Strategies and fully..
+
+🔗&nbsp;<b><a href="https://www.udemy.com/course/forex-algorithmic-trading-course-code-a-forex-robot/">Forex Algorithmic Trading Course: Code a Forex Robot!</a></b>  - Build a Completely Automated Trading Robot (Expert..
 
 <br>
 
