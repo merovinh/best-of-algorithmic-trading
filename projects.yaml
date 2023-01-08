@@ -224,16 +224,6 @@ projects:
     category: books
     homepage: "https://a.co/d/8AKZ81H"
     description: "How to Build Your Own Algorithmic Trading Business (Wiley Trading)"
-  - name: Algorithmic Trading with Interactive Brokers
-    resource: True
-    category: books
-    homepage: "https://a.co/d/0BG4zaW"
-    description: "(Python and C++)"
-  - name: Automated Stock Trading Systems
-    resource: True
-    category: books
-    homepage: "https://a.co/d/70Kf40O"
-    description: "A Systematic Approach for Traders to Make Money in Bull, Bear and Sideways Markets"
   - name: Inside the Black Box
     resource: True
     category: books
