@@ -58,7 +58,7 @@ This curated list contains 32 awesome open-source projects with a total of 120K 
 
 <details><summary><b><a href="https://github.com/freqtrade/freqtrade">Freqtrade</a></b> (🥇30 ·  ⭐ 20K) - Free, open source crypto trading bot. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/freqtrade/freqtrade) (👨‍💻 280 · 🔀 4.1K · 📋 3.5K - 1% open · ⏱️ 07.01.2023):
+- [GitHub](https://github.com/freqtrade/freqtrade) (👨‍💻 280 · 🔀 4.1K · 📋 3.5K - 1% open · ⏱️ 08.01.2023):
 
 	```
 	git clone https://github.com/freqtrade/freqtrade
@@ -66,7 +66,7 @@ This curated list contains 32 awesome open-source projects with a total of 120K 
 </details>
 <details><summary><b><a href="https://github.com/Superalgos/Superalgos">Superalgos</a></b> (🥇30 ·  ⭐ 3.1K) - Free, open-source crypto trading bot, automated bitcoin /.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/Superalgos/Superalgos) (👨‍💻 210 · 🔀 4.8K · 📥 8K · 📋 430 - 16% open · ⏱️ 29.12.2022):
+- [GitHub](https://github.com/Superalgos/Superalgos) (👨‍💻 210 · 🔀 4.8K · 📥 8K · 📋 430 - 17% open · ⏱️ 29.12.2022):
 
 	```
 	git clone https://github.com/Superalgos/Superalgos
@@ -104,7 +104,7 @@ This curated list contains 32 awesome open-source projects with a total of 120K 
 	git clone https://github.com/DeviaVir/zenbot
 	```
 </details>
-<details><summary><b><a href="https://github.com/jesse-ai/jesse">Jesse</a></b> (🥈23 ·  ⭐ 4.4K) - An advanced crypto trading bot written in Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/jesse-ai/jesse">Jesse</a></b> (🥈22 ·  ⭐ 4.4K · 📉) - An advanced crypto trading bot written in Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/jesse-ai/jesse) (👨‍💻 43 · 🔀 560 · 📦 21 · 📋 90 - 3% open · ⏱️ 28.12.2022):
 
@@ -136,9 +136,9 @@ This curated list contains 32 awesome open-source projects with a total of 120K 
 	git clone https://github.com/bitcoinvsalts/node-binance-trader
 	```
 </details>
-<details><summary><b><a href="https://github.com/Reiryoku-Technologies/Mida">Mida</a></b> (🥉16 ·  ⭐ 260) - The open-source and cross-platform trading framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/Reiryoku-Technologies/Mida">Mida</a></b> (🥉17 ·  ⭐ 260 · 📈) - The open-source and cross-platform trading framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/Reiryoku-Technologies/Mida) (👨‍💻 3 · 🔀 18 · 📦 16 · 📋 28 - 42% open · ⏱️ 06.01.2023):
+- [GitHub](https://github.com/Reiryoku-Technologies/Mida) (👨‍💻 3 · 🔀 18 · 📦 16 · 📋 28 - 42% open · ⏱️ 08.01.2023):
 
 	```
 	git clone https://github.com/Reiryoku-Technologies/Mida
@@ -177,19 +177,19 @@ This curated list contains 32 awesome open-source projects with a total of 120K 
 	```
 	git clone https://github.com/ccxt/ccxt
 	```
-- [npm](https://www.npmjs.com/package/ccxt) (📥 96K / month):
+- [npm](https://www.npmjs.com/package/ccxt) (📥 95K / month):
 	```
 	npm install ccxt
 	```
 </details>
-<details><summary><b><a href="https://github.com/tiagosiebler/binance">Node.js & Typescript Binance API SDK</a></b> (🥈25 ·  ⭐ 520) - Node.js SDK for the Binance APIs and WebSockets, with.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/tiagosiebler/binance">Node.js & Typescript Binance API SDK</a></b> (🥈25 ·  ⭐ 530) - Node.js SDK for the Binance APIs and WebSockets, with.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/tiagosiebler/binance) (👨‍💻 38 · 🔀 180 · 📦 770 · 📋 140 - 17% open · ⏱️ 20.12.2022):
 
 	```
 	git clone https://github.com/tiagosiebler/binance
 	```
-- [npm](https://www.npmjs.com/package/binance) (📥 7.8K / month):
+- [npm](https://www.npmjs.com/package/binance) (📥 7.4K / month):
 	```
 	npm install binance
 	```
@@ -201,7 +201,7 @@ This curated list contains 32 awesome open-source projects with a total of 120K 
 	```
 	git clone https://github.com/tiagosiebler/bybit-api
 	```
-- [npm](https://www.npmjs.com/package/bybit-api) (📥 3.9K / month):
+- [npm](https://www.npmjs.com/package/bybit-api) (📥 4K / month):
 	```
 	npm install bybit-api
 	```
@@ -229,7 +229,7 @@ This curated list contains 32 awesome open-source projects with a total of 120K 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-🔗&nbsp;<b><a href="https://www.amazon.com/Inside-Black-Box-Quantitative-Frequency-ebook/dp/B00BZ9WAVW">Inside the Black Box</a></b>  
+🔗&nbsp;<b><a href="https://www.amazon.com/Inside-Black-Box-Quantitative-Frequency-ebook/dp/B00BZ9WAVW">Inside the Black Box</a></b>  - A Simple Guide to Quantitative and High Frequency Trading (Wiley Finance Book..
 
 <br>
 
