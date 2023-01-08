@@ -21,6 +21,7 @@ labels:
     description: "Python projects"
   - label: "nodejs"
     image: "https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png"
+    description: "NodeJS projects"
   - label: "js"
     image: "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png"
     description: "JavaScript projects"
