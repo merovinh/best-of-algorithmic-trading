@@ -174,6 +174,66 @@ projects:
     category: bots-frameworks
     labels: ["nodejs"]
     
+  - name: ALGO TRADING CHEAT CODES
+    resource: True
+    category: books
+    homepage: "https://a.co/d/clZdkkf"
+    description: Techniques For Traders To Quickly And Efficiently Develop Better Algorithmic Trading Systems (Essential Algo Trading Package)
+  - name: Entry and Exit Confessions of a Champion Trader
+    resource: True
+    category: books
+    homepage: "https://a.co/d/4QI2fDU"
+    description: 52 Ways A Professional Speculator Gets In And Out Of The Stock, Futures And Forex Markets (Essential Algo Trading Package)
+  - name: Introduction To Algo Trading
+    resource: True
+    category: books
+    homepage: "https://a.co/d/fpqbVFq"
+    description: How Retail Traders Can Successfully Compete With Professional Traders (Essential Algo Trading Package)
+  - name: Algo Trading 2022
+    resource: True
+    category: books
+    homepage: "https://a.co/d/6C7tyK8"
+    description: Techniques and Algorithmic Trading Systems for Successful Investing
+  - name: Machine Learning for Algorithmic Trading
+    resource: True
+    category: books
+    homepage: "https://a.co/d/c1cWdjY"
+    description: Predictive models to extract signals from market and alternative data for systematic trading strategies with Python, 2nd Edition
+  - name: Algorithmic Trading
+    resource: True
+    category: books
+    homepage: "https://a.co/d/6z9xiIB"
+    description: "A Practitioner's Guide"
+  - name: Developing High-Frequency Trading Systems
+    resource: True
+    category: books
+    homepage: "https://a.co/d/dr8n0VV"
+    description: Learn how to implement high-frequency trading from scratch with C++ or Java basics
+  - name: Algorithmic Trading: Winning Strategies and Their Rationale
+    resource: True
+    category: books
+    homepage: "https://a.co/d/3qRbZEe"
+    description: Winning Strategies and Their Rationale
+  - name: Python for Algorithmic Trading
+    resource: True
+    category: books
+    homepage: "From Idea to Cloud Deployment"
+    description: https://a.co/d/3g8wHDC
+  - name: Quantitative Trading
+    resource: True
+    category: books
+    homepage: "https://a.co/d/8AKZ81H"
+    description: How to Build Your Own Algorithmic Trading Business (Wiley Trading)
+  - name: Algorithmic Trading with Interactive Brokers
+    resource: True
+    category: books
+    homepage: "https://a.co/d/0BG4zaW"
+    description: (Python and C++)
+  - name: Automated Stock Trading Systems
+    resource: True
+    category: books
+    homepage: "https://a.co/d/70Kf40O"
+    description: A Systematic Approach for Traders to Make Money in Bull, Bear and Sideways Markets
   - name: Inside the Black Box
     resource: True
     category: books
