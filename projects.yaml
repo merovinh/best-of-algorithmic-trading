@@ -21,7 +21,9 @@ labels:
     description: "Python projects"
   - label: "nodejs"
     image: "https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png"
-    description: "NodeJS projects"
+  - label: "js"
+    image: "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png"
+    description: "JavaScript projects"
   - label: "c"
     image: "https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png"
     description: "C projects"
@@ -185,6 +187,10 @@ projects:
     github_id: zbarge/stocklook
     category: libraries-api
     labels: ["python"]
+  - name: Catalyst
+    github_id: scrtlabs/catalyst
+    category: libraries-api
+    labels: ["python"]
     
   - name: Tulip Indicators
     github_id: TulipCharts/tulipindicators
@@ -210,6 +216,31 @@ projects:
     github_id: peerchemist/finta
     category: ta
     pypi_id: finta
+    labels: ["python"]
+  - name: Technical Analysis for Rust
+    github_id: greyblake/ta-rs
+    category: ta
+    labels: ["rust"]
+  - name: ta4j
+    github_id: ta4j/ta4j
+    category: ta
+    labels: ["java"]
+  - name: Techan
+    github_id: sdcoffey/techan
+    category: ta
+    labels: ["go"]
+  - name: TechnicalIndicators
+    github_id: anandanand84/technicalindicators
+    category: ta
+    labels: ["js"]
+  - name: Pandas TA
+    github_id: twopirllc/pandas-ta
+    category: ta
+    pypi_id: pandas_ta
+    labels: ["python"]
+  - name: pyti
+    github_id: kylejusticemagnuson/pyti
+    category: ta
     labels: ["python"]
     
   - name: ALGO TRADING CHEAT CODES
