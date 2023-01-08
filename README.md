@@ -10,20 +10,20 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-58-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-65-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/merovinh/best-of-algorithmic-trading/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/merovinh/best-of-algorithmic-trading?color=green&label=updated"></a>
 </p>
 
-This curated list contains 58 awesome open-source projects with a total of 130K stars grouped into 5 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/merovinh/best-of-algorithmic-trading/issues/new/choose), submit a [pull request](https://github.com/merovinh/best-of-algorithmic-trading/pulls), or directly edit the [projects.yaml](https://github.com/merovinh/best-of-algorithmic-trading/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 65 awesome open-source projects with a total of 140K stars grouped into 5 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/merovinh/best-of-algorithmic-trading/issues/new/choose), submit a [pull request](https://github.com/merovinh/best-of-algorithmic-trading/pulls), or directly edit the [projects.yaml](https://github.com/merovinh/best-of-algorithmic-trading/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
 ## Contents
 
 - [Bots & Frameworks](#bots--frameworks) _21 projects_
-- [Libraries & API](#libraries--api) _11 projects_
-- [Technical analysis & Indicators](#technical-analysis--indicators) _5 projects_
+- [Libraries & API](#libraries--api) _12 projects_
+- [Technical analysis & Indicators](#technical-analysis--indicators) _11 projects_
 - [Books](#books) _19 projects_
 - [Communities](#communities) _2 projects_
 
@@ -43,7 +43,7 @@ This curated list contains 58 awesome open-source projects with a total of 130K 
 - 📥&nbsp; Download count from package manager
 - 📦&nbsp; Number of dependent projects
 - <img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13">&nbsp; Python projects
-- <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13">&nbsp; NodeJS projects
+- <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" style="display:inline;" width="13" height="13">&nbsp; JavaScript projects
 - <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" style="display:inline;" width="13" height="13">&nbsp; C projects
 - <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/c_icon_132529.png" style="display:inline;" width="13" height="13">&nbsp; C++ projects
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" style="display:inline;" width="13" height="13">&nbsp; C# projects
@@ -217,10 +217,11 @@ This curated list contains 58 awesome open-source projects with a total of 130K 
 	git clone https://github.com/jrmeier/fast-trade
 	```
 </details>
-<details><summary>Show 7 hidden projects...</summary>
+<details><summary>Show 8 hidden projects...</summary>
 
 - <b><a href="https://github.com/mementum/backtrader">backtrader</a></b> (🥈24 ·  ⭐ 9.8K · 💀) - Python Backtesting library for trading strategies. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/binance-exchange/binance-java-api">binance-java-api</a></b> (🥈17 ·  ⭐ 800 · 💀) - binance-java-api is a lightweight Java library for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/195/PNG/256/Java_23404.png" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/scrtlabs/catalyst">Catalyst</a></b> (🥈23 ·  ⭐ 2.4K · 💀) - An Algorithmic Trading Library for Crypto-Assets in Python. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/binance-exchange/binance-java-api">binance-java-api</a></b> (🥉17 ·  ⭐ 800 · 💀) - binance-java-api is a lightweight Java library for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/195/PNG/256/Java_23404.png" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/binance-exchange/binance-api-node">binance-api-node</a></b> (🥉15 ·  ⭐ 560) - A complete and heavily tested API wrapper for the.. <code>❗Unlicensed</code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/CryptoMF/frostybot-js">Frostybot-JS</a></b> (🥉12 ·  ⭐ 290 · 💀) - Frostybot-JS is a cryptocurrency trading API endpoint,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/tiagosiebler/okx-api">Node.js & Typescript OKX (OKEX) API SDK</a></b> (🥉11 ·  ⭐ 5 · 🐣) - Node.js SDK for the OKX APIs and WebSockets, with.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code>
@@ -233,6 +234,18 @@ This curated list contains 58 awesome open-source projects with a total of 130K 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
+<details><summary><b><a href="https://github.com/twopirllc/pandas-ta">Pandas TA</a></b> (🥇30 ·  ⭐ 3.2K · ➕) - Technical Analysis Indicators - Pandas TA is an easy to use.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/twopirllc/pandas-ta) (👨‍💻 45 · 🔀 680 · 📦 1K · 📋 460 - 18% open · ⏱️ 24.09.2022):
+
+	```
+	git clone https://github.com/twopirllc/pandas-ta
+	```
+- [PyPi](https://pypi.org/project/pandas_ta) (📥 73K / month):
+	```
+	pip install pandas_ta
+	```
+</details>
 <details><summary><b><a href="https://github.com/mrjbq7/ta-lib">TA-Lib</a></b> (🥇28 ·  ⭐ 7.3K) - Python wrapper for TA-Lib (http://ta-lib.org/). <code>❗Unlicensed</code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/mrjbq7/ta-lib) (👨‍💻 23 · 🔀 1.4K · 📦 3.3K · 📋 500 - 35% open · ⏱️ 04.01.2023):
@@ -249,7 +262,7 @@ This curated list contains 58 awesome open-source projects with a total of 130K 
 	conda install -c anaconda ta-lib
 	```
 </details>
-<details><summary><b><a href="https://github.com/bukosabino/ta">Technical Analysis Library in Python</a></b> (🥈27 ·  ⭐ 3.4K · ➕) - Technical Analysis Library using Pandas and Numpy. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/bukosabino/ta">Technical Analysis Library in Python</a></b> (🥈27 ·  ⭐ 3.4K) - Technical Analysis Library using Pandas and Numpy. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/bukosabino/ta) (👨‍💻 29 · 🔀 740 · 📦 1.6K · 📋 200 - 51% open · ⏱️ 23.08.2022):
 
@@ -261,7 +274,7 @@ This curated list contains 58 awesome open-source projects with a total of 130K 
 	pip install ta
 	```
 </details>
-<details><summary><b><a href="https://github.com/peerchemist/finta">FinTA (Financial Technical Analysis)</a></b> (🥉23 ·  ⭐ 1.8K · ➕) - Common financial technical indicators implemented in.. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/peerchemist/finta">FinTA (Financial Technical Analysis)</a></b> (🥈23 ·  ⭐ 1.8K) - Common financial technical indicators implemented in.. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/peerchemist/finta) (👨‍💻 28 · 🔀 580 · 📦 300 · 📋 86 - 25% open · ⏱️ 24.07.2022):
 
@@ -281,6 +294,14 @@ This curated list contains 58 awesome open-source projects with a total of 130K 
 	git clone https://github.com/TulipCharts/tulipindicators
 	```
 </details>
+<details><summary><b><a href="https://github.com/greyblake/ta-rs">Technical Analysis for Rust</a></b> (🥉13 ·  ⭐ 480 · ➕) - Technical analysis library for Rust language. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_rust_icon_130185.png" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/greyblake/ta-rs) (👨‍💻 13 · 🔀 82 · 📋 23 - 34% open · ⏱️ 21.10.2022):
+
+	```
+	git clone https://github.com/greyblake/ta-rs
+	```
+</details>
 <details><summary><b><a href="https://github.com/TulipCharts/tulipnode">Tulip Node</a></b> (🥉11 ·  ⭐ 450) - Tulip Node is the official node.js wrapper for Tulip.. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/TulipCharts/tulipnode) (👨‍💻 7 · 🔀 77 · 📋 60 - 18% open · ⏱️ 22.08.2022):
@@ -288,6 +309,13 @@ This curated list contains 58 awesome open-source projects with a total of 130K 
 	```
 	git clone https://github.com/TulipCharts/tulipnode
 	```
+</details>
+<details><summary>Show 4 hidden projects...</summary>
+
+- <b><a href="https://github.com/ta4j/ta4j">ta4j</a></b> (🥈23 ·  ⭐ 1.7K · ➕) - A Java library for technical analysis. <code>❗Unlicensed</code> <code><img src="https://cdn.icon-icons.com/icons2/195/PNG/256/Java_23404.png" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/anandanand84/technicalindicators">TechnicalIndicators</a></b> (🥉21 ·  ⭐ 1.9K · 💀) - A javascript technical indicators written in.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/kylejusticemagnuson/pyti">pyti</a></b> (🥉17 ·  ⭐ 630 · 💀) - Python library of various financial technical indicators. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/sdcoffey/techan">Techan</a></b> (🥉14 ·  ⭐ 700 · 💀) - Technical Analysis Library for Golang. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_gopher_src_logo_icon_168155.png" style="display:inline;" width="13" height="13"></code>
 </details>
 <br>
 
