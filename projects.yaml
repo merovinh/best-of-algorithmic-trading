@@ -269,11 +269,9 @@ projects:
     category: books
     homepage: "https://a.co/d/irZteKp"
     description: Strategies to exploit stock market anomalies for all investors
-    
   - name: Telegram
     group: True
     group_id: telegram
-    category: communities
   - name: Node.js Algo Traders
     resource: True
     group_id: telegram
