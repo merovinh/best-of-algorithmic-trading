@@ -193,6 +193,8 @@ projects:
   - name: TA-Lib
     github_id: mrjbq7/ta-lib
     category: ta
+    pypi_id: TA-Lib
+    conda_id: ta-lib
     labels: ["python"]
     
   - name: ALGO TRADING CHEAT CODES
