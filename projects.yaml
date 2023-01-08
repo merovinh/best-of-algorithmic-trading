@@ -30,7 +30,7 @@ labels:
     image: "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png"
     description: "JavaScript projects"
   - label: "c"
-    image: "https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png"
+    image: "https://cdn.icon-icons.com/icons2/7/PNG/128/mimetypes_cppsource_c_341.png"
     description: "C projects"
   - label: "cplusplus"
     image: "https://cdn.icon-icons.com/icons2/2148/PNG/512/c_icon_132529.png"
