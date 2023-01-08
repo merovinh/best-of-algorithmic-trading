@@ -460,7 +460,7 @@ projects:
     category: courses
     homepage: "https://www.udemy.com/course/cryptocurrency-algorithmic-trading-with-python-and-binance/"
     description: "Create powerful Trading Strategies and fully automated AWS Trading Bots for Bitcoin & co. | Spot and Futures Trading"
-  - name: Forex Algorithmic Trading Course: Code a Forex Robot!
+  - name: "Forex Algorithmic Trading Course: Code a Forex Robot!"
     resource: True
     category: courses
     homepage: "https://www.udemy.com/course/forex-algorithmic-trading-course-code-a-forex-robot/"
