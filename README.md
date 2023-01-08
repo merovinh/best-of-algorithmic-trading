@@ -10,12 +10,12 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-32-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-38-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/merovinh/best-of-algorithmic-trading/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/merovinh/best-of-algorithmic-trading?color=green&label=updated"></a>
 </p>
 
-This curated list contains 32 awesome open-source projects with a total of 120K stars grouped into 4 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/merovinh/best-of-algorithmic-trading/issues/new/choose), submit a [pull request](https://github.com/merovinh/best-of-algorithmic-trading/pulls), or directly edit the [projects.yaml](https://github.com/merovinh/best-of-algorithmic-trading/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 38 awesome open-source projects with a total of 120K stars grouped into 4 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/merovinh/best-of-algorithmic-trading/issues/new/choose), submit a [pull request](https://github.com/merovinh/best-of-algorithmic-trading/pulls), or directly edit the [projects.yaml](https://github.com/merovinh/best-of-algorithmic-trading/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -23,7 +23,7 @@ This curated list contains 32 awesome open-source projects with a total of 120K 
 
 - [Bots & Frameworks](#bots--frameworks) _21 projects_
 - [Libraries & API](#libraries--api) _10 projects_
-- [Books](#books) _1 projects_
+- [Books](#books) _7 projects_
 - [Communities](#communities) _0 projects_
 
 ## Explanation
@@ -104,7 +104,7 @@ This curated list contains 32 awesome open-source projects with a total of 120K 
 	git clone https://github.com/DeviaVir/zenbot
 	```
 </details>
-<details><summary><b><a href="https://github.com/jesse-ai/jesse">Jesse</a></b> (🥈22 ·  ⭐ 4.4K · 📉) - An advanced crypto trading bot written in Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/jesse-ai/jesse">Jesse</a></b> (🥈22 ·  ⭐ 4.4K) - An advanced crypto trading bot written in Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/jesse-ai/jesse) (👨‍💻 43 · 🔀 560 · 📦 21 · 📋 90 - 3% open · ⏱️ 28.12.2022):
 
@@ -136,7 +136,7 @@ This curated list contains 32 awesome open-source projects with a total of 120K 
 	git clone https://github.com/bitcoinvsalts/node-binance-trader
 	```
 </details>
-<details><summary><b><a href="https://github.com/Reiryoku-Technologies/Mida">Mida</a></b> (🥉17 ·  ⭐ 260 · 📈) - The open-source and cross-platform trading framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/Reiryoku-Technologies/Mida">Mida</a></b> (🥉17 ·  ⭐ 260) - The open-source and cross-platform trading framework. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/Reiryoku-Technologies/Mida) (👨‍💻 3 · 🔀 18 · 📦 16 · 📋 28 - 42% open · ⏱️ 08.01.2023):
 
@@ -230,6 +230,18 @@ This curated list contains 32 awesome open-source projects with a total of 120K 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
 🔗&nbsp;<b><a href="https://www.amazon.com/Inside-Black-Box-Quantitative-Frequency-ebook/dp/B00BZ9WAVW">Inside the Black Box</a></b>  - A Simple Guide to Quantitative and High Frequency Trading (Wiley Finance Book..
+
+🔗&nbsp;<b><a href="https://a.co/d/csmbxM7">Finding Alphas</a></b>  - A Quantitative Approach to Building Trading Strategies 1st Edition.
+
+🔗&nbsp;<b><a href="https://a.co/d/htjHUd6">Algorithmic Trading and DMA</a></b>  - An introduction to direct access trading strategies.
+
+🔗&nbsp;<b><a href="https://a.co/d/401HtW6">Building Winning Algorithmic Trading Systems</a></b>  - A Traders Journey From Data Mining to Monte Carlo..
+
+🔗&nbsp;<b><a href="https://a.co/d/fvl0twW">Python for Finance</a></b>  - Mastering Data-Driven Finance 2nd Edition.
+
+🔗&nbsp;<b><a href="https://a.co/d/7FTaLDf">Technical Analysis Explained, Fifth Edition</a></b>  - The Successful Investors Guide to Spotting Investment..
+
+🔗&nbsp;<b><a href="https://a.co/d/irZteKp">Quantitative Investing</a></b>  - Strategies to exploit stock market anomalies for all investors.
 
 <br>
 
