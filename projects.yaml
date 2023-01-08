@@ -181,6 +181,10 @@ projects:
     github_id: DeviaVir/zenbot
     category: bots-frameworks
     labels: ["nodejs"]
+  - name: stocklook
+    github_id: zbarge/stocklook
+    category: libraries-api
+    labels: ["python"]
     
   - name: Tulip Indicators
     github_id: TulipCharts/tulipindicators
@@ -195,6 +199,17 @@ projects:
     category: ta
     pypi_id: TA-Lib
     conda_id: ta-lib
+    show: True
+    labels: ["python"]
+  - name: Technical Analysis Library in Python
+    github_id: bukosabino/ta
+    category: ta
+    pypi_id: ta
+    labels: ["python"]
+  - name: FinTA (Financial Technical Analysis)
+    github_id: peerchemist/finta
+    category: ta
+    pypi_id: finta
     labels: ["python"]
     
   - name: ALGO TRADING CHEAT CODES
