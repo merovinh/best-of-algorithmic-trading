@@ -49,6 +49,7 @@ This curated list contains 52 awesome open-source projects with a total of 120K 
 - <img src="https://cdn.icon-icons.com/icons2/195/PNG/256/Java_23404.png" style="display:inline;" width="13" height="13">&nbsp; Java projects
 - <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_rust_icon_130185.png" style="display:inline;" width="13" height="13">&nbsp; Rust projects
 - <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_gopher_src_logo_icon_168155.png" style="display:inline;" width="13" height="13">&nbsp; Go projects
+- <img src="https://cdn.icon-icons.com/icons2/923/PNG/512/telegram_icon-icons.com_72055.png" style="display:inline;" width="13" height="13">&nbsp; Telegram
 
 <br>
 
@@ -273,9 +274,9 @@ This curated list contains 52 awesome open-source projects with a total of 120K 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-🔗&nbsp;<b><a href="https://t.me/nodetraders">Node.js Algo Traders</a></b>  - Collaborate in the world of algo trading with fellow..
+🔗&nbsp;<b><a href="https://t.me/nodetraders">Node.js Algo Traders</a></b>  - Collaborate in the world of algo trading with fellow.. <code><img src="https://cdn.icon-icons.com/icons2/923/PNG/512/telegram_icon-icons.com_72055.png" style="display:inline;" width="13" height="13"></code>
 
-🔗&nbsp;<b><a href="https://t.me/algotradingcrypto">Algotrading Crypto</a></b>  
+🔗&nbsp;<b><a href="https://t.me/algotradingcrypto">Algotrading Crypto</a></b>  - Ideas, tools, strategies discussion. <code><img src="https://cdn.icon-icons.com/icons2/923/PNG/512/telegram_icon-icons.com_72055.png" style="display:inline;" width="13" height="13"></code>
 
 
 ---
