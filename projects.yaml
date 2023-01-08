@@ -173,9 +173,39 @@ projects:
     github_id: DeviaVir/zenbot
     category: bots-frameworks
     labels: ["nodejs"]
+    
   - name: Inside the Black Box
     resource: True
     category: books
     homepage: "https://www.amazon.com/Inside-Black-Box-Quantitative-Frequency-ebook/dp/B00BZ9WAVW"
     description: A Simple Guide to Quantitative and High Frequency Trading (Wiley Finance Book 885) 2nd Edition
-    
+  - name: Finding Alphas
+    resource: True
+    category: books
+    homepage: "https://a.co/d/csmbxM7"
+    description: A Quantitative Approach to Building Trading Strategies 1st Edition
+  - name: Algorithmic Trading and DMA
+    resource: True
+    category: books
+    homepage: "https://a.co/d/htjHUd6"
+    description: An introduction to direct access trading strategies
+  - name: Building Winning Algorithmic Trading Systems
+    resource: True
+    category: books
+    homepage: "https://a.co/d/401HtW6"
+    description: "A Trader's Journey From Data Mining to Monte Carlo Simulation to Live Trading (Wiley Trading) 1st Edition"
+  - name: Python for Finance
+    resource: True
+    category: books
+    homepage: "https://a.co/d/fvl0twW"
+    description: Mastering Data-Driven Finance 2nd Edition
+  - name: Technical Analysis Explained, Fifth Edition
+    resource: True
+    category: books
+    homepage: "https://a.co/d/7FTaLDf"
+    description: The Successful Investor's Guide to Spotting Investment Trends and Turning Points 5th Edition
+  - name: Quantitative Investing
+    resource: True
+    category: books
+    homepage: "https://a.co/d/irZteKp"
+    description: Strategies to exploit stock market anomalies for all investors
