@@ -269,18 +269,14 @@ projects:
     category: books
     homepage: "https://a.co/d/irZteKp"
     description: Strategies to exploit stock market anomalies for all investors
-  - name: Telegram
-    group: True
-    group_id: telegram
+
   - name: Node.js Algo Traders
     resource: True
-    group_id: telegram
     category: communities
     homepage: "https://t.me/nodetraders"
     description: "Collaborate in the world of algo trading with fellow Node.js/JavaScript/TypeScript developers. From custom scripts to popular frameworks"
   - name: Algotrading Crypto
     resource: True
-    group_id: telegram
     category: communities
     homepage: "https://t.me/algotradingcrypto"
     
