@@ -10,20 +10,20 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-55-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-58-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/merovinh/best-of-algorithmic-trading/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/merovinh/best-of-algorithmic-trading?color=green&label=updated"></a>
 </p>
 
-This curated list contains 55 awesome open-source projects with a total of 130K stars grouped into 5 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/merovinh/best-of-algorithmic-trading/issues/new/choose), submit a [pull request](https://github.com/merovinh/best-of-algorithmic-trading/pulls), or directly edit the [projects.yaml](https://github.com/merovinh/best-of-algorithmic-trading/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 58 awesome open-source projects with a total of 130K stars grouped into 5 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/merovinh/best-of-algorithmic-trading/issues/new/choose), submit a [pull request](https://github.com/merovinh/best-of-algorithmic-trading/pulls), or directly edit the [projects.yaml](https://github.com/merovinh/best-of-algorithmic-trading/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
 ## Contents
 
 - [Bots & Frameworks](#bots--frameworks) _21 projects_
-- [Libraries & API](#libraries--api) _10 projects_
-- [Technical analysis & Indicators](#technical-analysis--indicators) _3 projects_
+- [Libraries & API](#libraries--api) _11 projects_
+- [Technical analysis & Indicators](#technical-analysis--indicators) _5 projects_
 - [Books](#books) _19 projects_
 - [Communities](#communities) _2 projects_
 
@@ -185,7 +185,7 @@ This curated list contains 55 awesome open-source projects with a total of 130K 
 	npm install ccxt
 	```
 </details>
-<details><summary><b><a href="https://github.com/tiagosiebler/binance">Node.js & Typescript Binance API SDK</a></b> (🥈25 ·  ⭐ 530) - Node.js SDK for the Binance APIs and WebSockets, with.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/tiagosiebler/binance">Node.js & Typescript Binance API SDK</a></b> (🥇25 ·  ⭐ 530) - Node.js SDK for the Binance APIs and WebSockets, with.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/tiagosiebler/binance) (👨‍💻 38 · 🔀 180 · 📦 770 · 📋 140 - 17% open · ⏱️ 20.12.2022):
 
@@ -217,13 +217,14 @@ This curated list contains 55 awesome open-source projects with a total of 130K 
 	git clone https://github.com/jrmeier/fast-trade
 	```
 </details>
-<details><summary>Show 6 hidden projects...</summary>
+<details><summary>Show 7 hidden projects...</summary>
 
 - <b><a href="https://github.com/mementum/backtrader">backtrader</a></b> (🥈24 ·  ⭐ 9.8K · 💀) - Python Backtesting library for trading strategies. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/binance-exchange/binance-java-api">binance-java-api</a></b> (🥉17 ·  ⭐ 800 · 💀) - binance-java-api is a lightweight Java library for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/195/PNG/256/Java_23404.png" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/binance-exchange/binance-java-api">binance-java-api</a></b> (🥈17 ·  ⭐ 800 · 💀) - binance-java-api is a lightweight Java library for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/195/PNG/256/Java_23404.png" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/binance-exchange/binance-api-node">binance-api-node</a></b> (🥉15 ·  ⭐ 560) - A complete and heavily tested API wrapper for the.. <code>❗Unlicensed</code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/CryptoMF/frostybot-js">Frostybot-JS</a></b> (🥉12 ·  ⭐ 290 · 💀) - Frostybot-JS is a cryptocurrency trading API endpoint,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/tiagosiebler/okx-api">Node.js & Typescript OKX (OKEX) API SDK</a></b> (🥉11 ·  ⭐ 5 · 🐣) - Node.js SDK for the OKX APIs and WebSockets, with.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/zbarge/stocklook">stocklook</a></b> (🥉9 ·  ⭐ 160 · 💀) - crypto currency library for trading & market making bots,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/tiagosiebler/bitget-api">Node.js & Typescript Bitget API SDK</a></b> (🥉9 ·  ⭐ 4 · 🐣) - Node.js SDK for the Bitget APIs and WebSockets, with.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code>
 </details>
 <br>
@@ -232,6 +233,46 @@ This curated list contains 55 awesome open-source projects with a total of 130K 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
+<details><summary><b><a href="https://github.com/mrjbq7/ta-lib">TA-Lib</a></b> (🥇28 ·  ⭐ 7.3K) - Python wrapper for TA-Lib (http://ta-lib.org/). <code>❗Unlicensed</code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/mrjbq7/ta-lib) (👨‍💻 23 · 🔀 1.4K · 📦 3.3K · 📋 500 - 35% open · ⏱️ 04.01.2023):
+
+	```
+	git clone https://github.com/mrjbq7/ta-lib
+	```
+- [PyPi](https://pypi.org/project/TA-Lib) (📥 60K / month):
+	```
+	pip install TA-Lib
+	```
+- [Conda](https://anaconda.org/anaconda/ta-lib):
+	```
+	conda install -c anaconda ta-lib
+	```
+</details>
+<details><summary><b><a href="https://github.com/bukosabino/ta">Technical Analysis Library in Python</a></b> (🥈27 ·  ⭐ 3.4K · ➕) - Technical Analysis Library using Pandas and Numpy. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/bukosabino/ta) (👨‍💻 29 · 🔀 740 · 📦 1.6K · 📋 200 - 51% open · ⏱️ 23.08.2022):
+
+	```
+	git clone https://github.com/bukosabino/ta
+	```
+- [PyPi](https://pypi.org/project/ta) (📥 210K / month):
+	```
+	pip install ta
+	```
+</details>
+<details><summary><b><a href="https://github.com/peerchemist/finta">FinTA (Financial Technical Analysis)</a></b> (🥉23 ·  ⭐ 1.8K · ➕) - Common financial technical indicators implemented in.. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/peerchemist/finta) (👨‍💻 28 · 🔀 580 · 📦 300 · 📋 86 - 25% open · ⏱️ 24.07.2022):
+
+	```
+	git clone https://github.com/peerchemist/finta
+	```
+- [PyPi](https://pypi.org/project/finta) (📥 5.7K / month):
+	```
+	pip install finta
+	```
+</details>
 <details><summary><b><a href="https://github.com/TulipCharts/tulipindicators">Tulip Indicators</a></b> (🥉14 ·  ⭐ 660 · 💤) - Technical Analysis Indicator Function Library in C. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/TulipCharts/tulipindicators) (👨‍💻 3 · 🔀 130 · 📋 70 - 45% open · ⏱️ 23.02.2022):
@@ -240,17 +281,13 @@ This curated list contains 55 awesome open-source projects with a total of 130K 
 	git clone https://github.com/TulipCharts/tulipindicators
 	```
 </details>
-<details><summary><b><a href="https://github.com/TulipCharts/tulipnode">Tulip Node</a></b> (🥉11 ·  ⭐ 450 · ➕) - Tulip Node is the official node.js wrapper for Tulip.. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/TulipCharts/tulipnode">Tulip Node</a></b> (🥉11 ·  ⭐ 450) - Tulip Node is the official node.js wrapper for Tulip.. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/TulipCharts/tulipnode) (👨‍💻 7 · 🔀 77 · 📋 60 - 18% open · ⏱️ 22.08.2022):
 
 	```
 	git clone https://github.com/TulipCharts/tulipnode
 	```
-</details>
-<details><summary>Show 1 hidden projects...</summary>
-
-- <b><a href="https://github.com/mrjbq7/ta-lib">TA-Lib</a></b> (🥇28 ·  ⭐ 7.3K · ➕) - Python wrapper for TA-Lib (http://ta-lib.org/). <code>❗Unlicensed</code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
 </details>
 <br>
 
