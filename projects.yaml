@@ -192,6 +192,46 @@ projects:
     github_id: scrtlabs/catalyst
     category: libraries-api
     labels: ["python"]
+  - name: aio-kraken-ws
+    gitlab_id: cdlr75/aio-kraken-ws
+    category: libraries-api
+    labels: ["python"]
+  - name: BitPanda WS
+    github_id: IOfate/bitpanda-ws
+    category: libraries-api
+    labels: ["nodejs"]
+  - name: KuCoin WS
+    github_id: IOfate/kucoin-ws
+    category: libraries-api
+    labels: ["nodejs"]
+  - name: Block Atlas by Trust Wallet
+    github_id: trustwallet/blockatlas
+    category: libraries-api
+    labels: ["go"]
+  - name: CryptoCurrency eXchange WebSockets
+    github_id: altangent/ccxws
+    category: libraries-api
+    labels: ["nodejs"]
+  - name: Coinnect
+    github_id: hugues31/coinnect
+    category: libraries-api
+    labels: ["rust"]
+  - name: crypto-exchanges-gateway
+    github_id: aloysius-pgast/crypto-exchanges-gateway
+    category: libraries-api
+    labels: ["nodejs"]
+  - name: ftx-api
+    github_id: tiagosiebler/ftx-api
+    category: libraries-api
+    labels: ["nodejs"]
+  - name: Node Binance API
+    github_id: jaggedsoft/node-binance-api
+    category: libraries-api
+    labels: ["nodejs"]
+  - name: python-binance
+    github_id: sammchardy/python-binance
+    category: libraries-api
+    labels: ["python"]
     
   - name: Tulip Indicators
     github_id: TulipCharts/tulipindicators
