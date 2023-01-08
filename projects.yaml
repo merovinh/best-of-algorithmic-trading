@@ -38,6 +38,9 @@ labels:
   - label: "go"
     image: "https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_gopher_src_logo_icon_168155.png"
     description: "Go projects"
+  - label: "telegram"
+    image: "https://cdn.icon-icons.com/icons2/923/PNG/512/telegram_icon-icons.com_72055.png"
+    description: "Telegram"
 
 projects:
   - name: Freqtrade
@@ -275,8 +278,11 @@ projects:
     category: communities
     homepage: "https://t.me/nodetraders"
     description: "Collaborate in the world of algo trading with fellow Node.js/JavaScript/TypeScript developers. From custom scripts to popular frameworks"
+    labels: ["telegram"]
   - name: Algotrading Crypto
     resource: True
     category: communities
     homepage: "https://t.me/algotradingcrypto"
+    description: "Ideas, tools, strategies discussion"
+    labels: ["telegram"]
     
