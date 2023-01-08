@@ -49,7 +49,7 @@ This curated list contains 92 awesome open-source projects with a total of 150K 
 - <img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13">&nbsp; Python projects
 - <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13">&nbsp; NodeJS projects
 - <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" style="display:inline;" width="13" height="13">&nbsp; JavaScript projects
-- <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" style="display:inline;" width="13" height="13">&nbsp; C projects
+- <img src="https://cdn.icon-icons.com/icons2/7/PNG/128/mimetypes_cppsource_c_341.png" style="display:inline;" width="13" height="13">&nbsp; C projects
 - <img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/c_icon_132529.png" style="display:inline;" width="13" height="13">&nbsp; C++ projects
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" style="display:inline;" width="13" height="13">&nbsp; C# projects
 - <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png" style="display:inline;" width="13" height="13">&nbsp; PHP projects
@@ -322,7 +322,7 @@ This curated list contains 92 awesome open-source projects with a total of 150K 
 	pip install finta
 	```
 </details>
-<details><summary><b><a href="https://github.com/TulipCharts/tulipindicators">Tulip Indicators</a></b> (🥉14 ·  ⭐ 660 · 💤) - Technical Analysis Indicator Function Library in C. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/TulipCharts/tulipindicators">Tulip Indicators</a></b> (🥉14 ·  ⭐ 660 · 💤) - Technical Analysis Indicator Function Library in C. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code> <code><img src="https://cdn.icon-icons.com/icons2/7/PNG/128/mimetypes_cppsource_c_341.png" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/TulipCharts/tulipindicators) (👨‍💻 3 · 🔀 130 · 📋 70 - 45% open · ⏱️ 23.02.2022):
 
