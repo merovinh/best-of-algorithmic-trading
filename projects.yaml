@@ -272,7 +272,6 @@ projects:
     
   - name: Telegram
     group: True
-    resource: True
     group_id: telegram
     category: communities
   - name: Node.js Algo Traders
