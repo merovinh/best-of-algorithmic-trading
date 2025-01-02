@@ -485,3 +485,15 @@ projects:
     description: The biggest and most active independent community of TradingView programmers in the world, a place to share ideas, resources, and to learn.
     labels: ["telegram"]
     
+  - name: chart-patterns
+    github_id: focus1691/chart-patterns
+    category: ta
+    labels: ["nodejs"]
+    description: "Technical analysis library providing Market Profile, Volume Profile, Stacked Imbalances and High Volume Node indicators."
+    
+  - name: Orderflow
+    github_id: focus1691/orderflow
+    category: libraries-api
+    labels: ["nodejs"]
+    description: "An Orderflow trade aggregator that builds Footprint Candles by aggregating raw trades from Websockets. Supports multiple exchanges."
+    
