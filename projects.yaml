@@ -55,6 +55,10 @@ labels:
     description: "Telegram"
 
 projects:
+  - name: QTradeX
+    github_id: squidKid-deluxe/QTradeX-Algo-Trading-SDK
+    category: bots-frameworks
+    labels: ["python"]
   - name: Freqtrade
     github_id: freqtrade/freqtrade
     category: bots-frameworks
