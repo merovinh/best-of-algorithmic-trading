@@ -340,6 +340,8 @@ This curated list contains 91 awesome open-source projects with a total of 210K 
 
 🔗&nbsp;<b><a href="https://www.youtube.com/@ecoengineering7535">EcoEngineering</a></b>  - Algorithmic trading and optimizing the trading strategies by using MQL and Python..
 
+🔗&nbsp;<b><a href="https://www.youtube.com/@dutchalgotrading">Dutch Algotrading</a></b>  - SEARCHING FOR BEST TRADING STRATEGY FOR LIFE CHANGING WEALTH!
+
 <br>
 
 ## Courses
