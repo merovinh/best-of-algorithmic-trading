@@ -324,6 +324,8 @@ This curated list contains 91 awesome open-source projects with a total of 210K 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
+🔗&nbsp;<b><a href="https://www.youtube.com/@StatOasis">Ali Casey | StatOasis</a></b>  - Hub for mastering algorithmic trading and building profitable strategy portfolios
+
 🔗&nbsp;<b><a href="https://www.youtube.com/@parttimelarry">Part Time Larry</a></b>  - Write programs to analyze, visualize, integrate, and utilize market data, APIs, and..
 
 🔗&nbsp;<b><a href="https://www.youtube.com/@moondevonyt">Moon Dev</a></b>  - I like coding & finance a lot and i really love teaching!.
