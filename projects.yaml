@@ -388,6 +388,11 @@ projects:
     homepage: "https://a.co/d/irZteKp"
     description: Strategies to exploit stock market anomalies for all investors
     
+  - name: Ali Casey | StatOasis
+    resource: True
+    category: youtube
+    homepage: "https://www.youtube.com/@StatOasis"
+    description: "Welcome to StatOasis — your go-to hub for mastering algorithmic trading and building profitable strategy portfolios."
   - name: Part Time Larry
     resource: True
     category: youtube
