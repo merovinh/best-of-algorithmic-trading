@@ -64,9 +64,9 @@ This curated list contains 92 awesome open-source projects with a total of 230K 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/freqtrade/freqtrade">Freqtrade</a></b> (🥇33 ·  ⭐ 45K) - Free, open source crypto trading bot. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/freqtrade/freqtrade">Freqtrade</a></b> (🥇35 ·  ⭐ 46K · 📈) - Free, open source crypto trading bot. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/freqtrade/freqtrade) (👨‍💻 380 · 🔀 9.2K · 📦 130 · 📋 5.5K - 0% open · ⏱️ 11.12.2025):
+- [GitHub](https://github.com/freqtrade/freqtrade) (👨‍💻 380 · 🔀 9.2K · 📦 130 · 📋 5.5K - 0% open · ⏱️ 25.12.2025):
 
 	```
 	git clone https://github.com/freqtrade/freqtrade
@@ -74,7 +74,7 @@ This curated list contains 92 awesome open-source projects with a total of 230K 
 </details>
 <details><summary><b><a href="https://github.com/hummingbot/hummingbot">Hummingbot</a></b> (🥇31 ·  ⭐ 15K) - Open source software that helps you create and deploy high-.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/hummingbot/hummingbot) (👨‍💻 300 · 🔀 3.9K · 📥 64 · 📦 16 · 📋 3.4K - 8% open · ⏱️ 03.11.2025):
+- [GitHub](https://github.com/hummingbot/hummingbot) (👨‍💻 300 · 🔀 3.9K · 📥 64 · 📦 16 · 📋 3.4K - 7% open · ⏱️ 15.12.2025):
 
 	```
 	git clone https://github.com/hummingbot/hummingbot
@@ -82,23 +82,23 @@ This curated list contains 92 awesome open-source projects with a total of 230K 
 </details>
 <details><summary><b><a href="https://github.com/QuantConnect/Lean">Lean</a></b> (🥈30 ·  ⭐ 14K) - Lean Algorithmic Trading Engine by QuantConnect (Python, C#). <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code> <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/QuantConnect/Lean) (👨‍💻 220 · 🔀 3.9K · 📦 21 · 📋 3.5K - 6% open · ⏱️ 11.12.2025):
+- [GitHub](https://github.com/QuantConnect/Lean) (👨‍💻 220 · 🔀 3.9K · 📦 21 · 📋 3.6K - 6% open · ⏱️ 24.12.2025):
 
 	```
 	git clone https://github.com/QuantConnect/Lean
 	```
 </details>
-<details><summary><b><a href="https://github.com/Drakkar-Software/OctoBot">OctoBot</a></b> (🥈25 ·  ⭐ 5K) - Open source crypto trading bot. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/Drakkar-Software/OctoBot">OctoBot</a></b> (🥈25 ·  ⭐ 5K) - Free open source crypto trading bot to automate AI, Grid, DCA.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/Drakkar-Software/OctoBot) (👨‍💻 25 · 🔀 1K · 📥 28K · 📋 790 - 13% open · ⏱️ 10.12.2025):
+- [GitHub](https://github.com/Drakkar-Software/OctoBot) (👨‍💻 25 · 🔀 1K · 📥 28K · 📋 790 - 13% open · ⏱️ 17.12.2025):
 
 	```
 	git clone https://github.com/Drakkar-Software/OctoBot
 	```
 </details>
-<details><summary><b><a href="https://github.com/jesse-ai/jesse">Jesse</a></b> (🥈21 ·  ⭐ 7.2K) - An advanced crypto trading bot written in Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/jesse-ai/jesse">Jesse</a></b> (🥈22 ·  ⭐ 7.3K · 📈) - An advanced crypto trading bot written in Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/jesse-ai/jesse) (👨‍💻 53 · 🔀 1K · 📦 6 · 📋 140 - 3% open · ⏱️ 10.12.2025):
+- [GitHub](https://github.com/jesse-ai/jesse) (👨‍💻 53 · 🔀 1K · 📦 6 · 📋 140 - 3% open · ⏱️ 14.12.2025):
 
 	```
 	git clone https://github.com/jesse-ai/jesse
@@ -119,8 +119,8 @@ This curated list contains 92 awesome open-source projects with a total of 230K 
 - <b><a href="https://github.com/Ekliptor/WolfBot">WolfBot</a></b> (🥉13 ·  ⭐ 760 · 💀) - Crypto currency trading bot written in TypeScript for.. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/tiagosiebler/TriangularArbitrage">TriangularArbitrage</a></b> (🥉11 ·  ⭐ 610 · 💀) - Detect triangular arbitrage opportunities within.. <code>❗Unlicensed</code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/wolfinch/wolfinch">Wolfinch</a></b> (🥉11 ·  ⭐ 270 · 💀) - Wolfinch is your friendly trader Bot written in Python. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/gabriel-milan/btrader">bTrader</a></b> (🥉8 ·  ⭐ 320 · 💀) - Triangle arbitrage trading bot for Binance. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_rust_icon_130185.png" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/squidKid-deluxe/QTradeX-Algo-Trading-SDK">QTradeX</a></b> (🥉8 ·  ⭐ 51) - AI-powered SDK featuring algorithmic trading, backtesting,.. <code>❗Unlicensed</code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/gabriel-milan/btrader">bTrader</a></b> (🥉8 ·  ⭐ 330 · 💀) - Triangle arbitrage trading bot for Binance. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_rust_icon_130185.png" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/squidKid-deluxe/QTradeX-Algo-Trading-SDK">QTradeX</a></b> (🥉8 ·  ⭐ 53) - AI-powered SDK featuring algorithmic trading, backtesting,.. <code>❗Unlicensed</code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
 </details>
 <br>
 
@@ -128,9 +128,9 @@ This curated list contains 92 awesome open-source projects with a total of 230K 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/ccxt/ccxt">CCXT</a></b> (🥇46 ·  ⭐ 40K · 📈) - A cryptocurrency trading API with more than 100 exchanges.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code> <code><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/ccxt/ccxt">CCXT</a></b> (🥇46 ·  ⭐ 40K) - A cryptocurrency trading API with more than 100 exchanges in.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code> <code><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/ccxt/ccxt) (👨‍💻 860 · 🔀 8.1K · 📦 6.1K · 📋 11K - 7% open · ⏱️ 12.12.2025):
+- [GitHub](https://github.com/ccxt/ccxt) (👨‍💻 860 · 🔀 8.2K · 📦 6.1K · 📋 11K - 6% open · ⏱️ 25.12.2025):
 
 	```
 	git clone https://github.com/ccxt/ccxt
@@ -140,41 +140,41 @@ This curated list contains 92 awesome open-source projects with a total of 230K 
 	npm install ccxt
 	```
 </details>
-<details><summary><b><a href="https://github.com/sammchardy/python-binance">python-binance</a></b> (🥇32 ·  ⭐ 7K · 📈) - Binance Exchange API python implementation for automated.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/tiagosiebler/binance">Node.js & Typescript Binance API SDK</a></b> (🥇32 ·  ⭐ 900 · 📈) - Node.js & JavaScript SDK for Binance REST APIs &.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/sammchardy/python-binance) (👨‍💻 190 · 🔀 2K · 📦 11K · 📋 1.2K - 42% open · ⏱️ 10.12.2025):
+- [GitHub](https://github.com/tiagosiebler/binance) (👨‍💻 72 · 🔀 270 · 📦 1.3K · 📋 250 - 8% open · ⏱️ 24.12.2025):
+
+	```
+	git clone https://github.com/tiagosiebler/binance
+	```
+- [npm](https://www.npmjs.com/package/binance) (📥 18K / month):
+	```
+	npm install binance
+	```
+</details>
+<details><summary><b><a href="https://github.com/tiagosiebler/bybit-api">Node.js & Typescript Bybit API SDK</a></b> (🥇30 ·  ⭐ 330 · 📈) - Node.js SDK for the Bybit APIs and WebSockets, with.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/tiagosiebler/bybit-api) (👨‍💻 38 · 🔀 100 · 📦 560 · 📋 190 - 3% open · ⏱️ 18.12.2025):
+
+	```
+	git clone https://github.com/tiagosiebler/bybit-api
+	```
+- [npm](https://www.npmjs.com/package/bybit-api) (📥 88K / month):
+	```
+	npm install bybit-api
+	```
+</details>
+<details><summary><b><a href="https://github.com/sammchardy/python-binance">python-binance</a></b> (🥈28 ·  ⭐ 7K · 📉) - Binance Exchange API python implementation for automated.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/sammchardy/python-binance) (👨‍💻 190 · 🔀 2K · 📦 20 · 📋 1.2K - 42% open · ⏱️ 16.12.2025):
 
 	```
 	git clone https://github.com/sammchardy/python-binance
 	```
 </details>
-<details><summary><b><a href="https://github.com/tiagosiebler/binance">Node.js & Typescript Binance API SDK</a></b> (🥇31 ·  ⭐ 900) - Node.js & JavaScript SDK for Binance REST APIs &.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/tiagosiebler/binance) (👨‍💻 71 · 🔀 270 · 📦 1.3K · 📋 250 - 7% open · ⏱️ 18.11.2025):
-
-	```
-	git clone https://github.com/tiagosiebler/binance
-	```
-- [npm](https://www.npmjs.com/package/binance) (📥 19K / month):
-	```
-	npm install binance
-	```
-</details>
-<details><summary><b><a href="https://github.com/tiagosiebler/bybit-api">Node.js & Typescript Bybit API SDK</a></b> (🥈29 ·  ⭐ 320) - Node.js SDK for the Bybit APIs and WebSockets, with.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/tiagosiebler/bybit-api) (👨‍💻 38 · 🔀 99 · 📦 560 · 📋 190 - 2% open · ⏱️ 14.11.2025):
-
-	```
-	git clone https://github.com/tiagosiebler/bybit-api
-	```
-- [npm](https://www.npmjs.com/package/bybit-api) (📥 92K / month):
-	```
-	npm install bybit-api
-	```
-</details>
 <details><summary><b><a href="https://github.com/ccxt/node-binance-api">Node Binance API</a></b> (🥈28 ·  ⭐ 1.7K) - Node Binance API is an asynchronous node.js library for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/ccxt/node-binance-api) (👨‍💻 100 · 🔀 620 · 📦 3.1K · 📋 680 - 38% open · ⏱️ 09.12.2025):
+- [GitHub](https://github.com/ccxt/node-binance-api) (👨‍💻 100 · 🔀 620 · 📦 3.1K · 📋 690 - 38% open · ⏱️ 17.12.2025):
 
 	```
 	git clone https://github.com/jaggedsoft/node-binance-api
@@ -182,12 +182,12 @@ This curated list contains 92 awesome open-source projects with a total of 230K 
 </details>
 <details><summary><b><a href="https://github.com/tiagosiebler/okx-api">Node.js & Typescript OKX (OKEX) API SDK</a></b> (🥈23 ·  ⭐ 160) - Node.js SDK for the OKX APIs and WebSockets, with.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/tiagosiebler/okx-api) (👨‍💻 17 · 🔀 45 · 📦 92 · 📋 40 - 2% open · ⏱️ 03.12.2025):
+- [GitHub](https://github.com/tiagosiebler/okx-api) (👨‍💻 17 · 🔀 45 · 📦 92 · 📋 40 - 2% open · ⏱️ 19.12.2025):
 
 	```
 	git clone https://github.com/tiagosiebler/okx-api
 	```
-- [npm](https://www.npmjs.com/package/okx-api) (📥 13K / month):
+- [npm](https://www.npmjs.com/package/okx-api) (📥 12K / month):
 	```
 	npm install okx-api
 	```
@@ -213,7 +213,7 @@ This curated list contains 92 awesome open-source projects with a total of 230K 
 - <b><a href="https://github.com/tiagosiebler/ftx-api">ftx-api</a></b> (🥉15 ·  ⭐ 120 · 💀) - Node.js connector for the FTX.com & FTX.us APIs and WebSockets,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/binance-exchange/binance-api-node">binance-api-node</a></b> (🥉14 ·  ⭐ 570 · 💀) - A complete and heavily tested API wrapper for the.. <code>❗Unlicensed</code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/zbarge/stocklook">stocklook</a></b> (🥉9 ·  ⭐ 170 · 💀) - crypto currency library for trading & market making bots,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/tiagosiebler/orderflow">Orderflow</a></b> (🥉9 ·  ⭐ 54 · 💤) - An Orderflow trade aggregator that builds Footprint Candles by.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/tiagosiebler/orderflow">Orderflow</a></b> (🥉9 ·  ⭐ 56 · 💤) - An Orderflow trade aggregator that builds Footprint Candles by.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/IOfate/kucoin-ws">KuCoin WS</a></b> (🥉7 ·  ⭐ 8 · 💀) - Node.js websocket client for KuCoin. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://github.com/IOfate/bitpanda-ws">BitPanda WS</a></b> (🥉5 ·  ⭐ 6 · 💀) - Node.js websocket client for BitPanda. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code>
 - <b><a href="https://gitlab.com/cdlr75/aio-kraken-ws">aio-kraken-ws</a></b> ( ⭐ 1 · 💀) - Get ohlc from kraken web sockets. Documentation.. <code>❗Unlicensed</code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
@@ -226,12 +226,12 @@ This curated list contains 92 awesome open-source projects with a total of 230K 
 
 <details><summary><b><a href="https://github.com/TA-Lib/ta-lib-python">TA-Lib</a></b> (🥇31 ·  ⭐ 12K) - Python wrapper for TA-Lib (http://ta-lib.org/). <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/TA-Lib/ta-lib-python) (👨‍💻 37 · 🔀 1.9K · 📥 2.4K · 📋 640 - 20% open · ⏱️ 27.10.2025):
+- [GitHub](https://github.com/TA-Lib/ta-lib-python) (👨‍💻 38 · 🔀 1.9K · 📥 2.7K · 📋 640 - 20% open · ⏱️ 22.12.2025):
 
 	```
 	git clone https://github.com/mrjbq7/ta-lib
 	```
-- [PyPi](https://pypi.org/project/TA-Lib) (📥 540K / month):
+- [PyPi](https://pypi.org/project/TA-Lib) (📥 500K / month):
 	```
 	pip install TA-Lib
 	```
