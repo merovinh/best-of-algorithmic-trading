@@ -1,16 +1,6 @@
-## 📈 Trending Up
+## ➕ Added Projects
 
-_Projects that have a higher project-quality score compared to the last update. There might be a variety of reasons, such as increased downloads or code activity._
+_Projects that were recently added to this best-of list._
 
-- <b><a href="https://github.com/freqtrade/freqtrade">Freqtrade</a></b> (🥇34 ·  ⭐ 46K · 📈) - Free, open source crypto trading bot. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/tiagosiebler/binance">Node.js & Typescript Binance API SDK</a></b> (🥇32 ·  ⭐ 900 · 📈) - Node.js & JavaScript SDK for Binance REST APIs &.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/tiagosiebler/okx-api">Node.js & Typescript OKX (OKEX) API SDK</a></b> (🥈24 ·  ⭐ 160 · 📈) - Node.js SDK for the OKX APIs and WebSockets, with.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/jesse-ai/jesse">Jesse</a></b> (🥈22 ·  ⭐ 7.3K · 📈) - An advanced crypto trading bot written in Python. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
-- <b><a href="https://github.com/squidKid-deluxe/QTradeX-Algo-Trading-SDK">QTradeX</a></b> (🥉10 ·  ⭐ 56 · 📈) - AI-powered SDK featuring algorithmic trading,.. <code>❗Unlicensed</code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
-
-## 📉 Trending Down
-
-_Projects that have a lower project-quality score compared to the last update. There might be a variety of reasons such as decreased downloads or code activity._
-
-- <b><a href="https://github.com/sammchardy/python-binance">python-binance</a></b> (🥈28 ·  ⭐ 7K · 📉) - Binance Exchange API python implementation for automated.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://www.python.org/static/favicon.ico" style="display:inline;" width="13" height="13"></code>
+- <b><a href="https://github.com/Erio-Harrison/rust-trade">Rust Trade</a></b> (🥉11 ·  ⭐ 370 · ➕) - A quantitative trading system built with Rust. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_rust_icon_130185.png" style="display:inline;" width="13" height="13"></code>
 
