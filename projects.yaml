@@ -55,6 +55,10 @@ labels:
     description: "Telegram"
 
 projects:
+  - name: Rust Trade
+    github_id: Erio-Harrison/rust-trade
+    category: bots-frameworks
+    labels: ["rust"]
   - name: QTradeX
     github_id: squidKid-deluxe/QTradeX-Algo-Trading-SDK
     category: bots-frameworks
