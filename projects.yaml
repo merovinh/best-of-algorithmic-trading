@@ -91,6 +91,10 @@ projects:
     github_id: tiagosiebler/TriangularArbitrage
     category: bots-frameworks
     labels: ["nodejs"]
+  - name: the0
+    github_id: alexanderwanyoike/the0
+    category: bots-frameworks
+    labels: ["python", "rust", "nodejs", "cplusplus", "csharp"]
   - name: CCXT
     github_id: ccxt/ccxt
     npm_id: ccxt
