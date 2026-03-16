@@ -518,4 +518,15 @@ projects:
     category: libraries-api
     labels: ["nodejs"]
     description: "An Orderflow trade aggregator that builds Footprint Candles by aggregating raw trades from Websockets. Supports multiple exchanges."
-    
+
+  - name: zipline
+    github_id: quantopian/zipline
+    category: libraries-api
+    labels: ["python"]
+  - name: machine-learning-for-trading
+    github_id: stefan-jansen/machine-learning-for-trading
+    category: libraries-api
+  - name: StockSharp
+    github_id: StockSharp/StockSharp
+    category: bots-frameworks
+    labels: ["csharp"]
