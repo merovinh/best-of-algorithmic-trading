@@ -530,3 +530,15 @@ projects:
     github_id: StockSharp/StockSharp
     category: bots-frameworks
     labels: ["csharp"]
+
+  - name: gs-quant
+    github_id: goldmansachs/gs-quant
+    category: libraries-api
+  - name: hftbacktest
+    github_id: nkaz001/hftbacktest
+    category: libraries-api
+    labels: ["rust"]
+  - name: RustQuant
+    github_id: avhz/RustQuant
+    category: libraries-api
+    labels: ["rust"]
