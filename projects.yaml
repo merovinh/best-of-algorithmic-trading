@@ -95,6 +95,11 @@ projects:
     github_id: alexanderwanyoike/the0
     category: bots-frameworks
     labels: ["python", "rust", "nodejs", "cplusplus", "csharp"]
+  - name: pykalshi
+    github_id: ArshKA/kalshi-client
+    pypi_id: pykalshi
+    category: libraries-api
+    labels: ["python"]
   - name: CCXT
     github_id: ccxt/ccxt
     npm_id: ccxt
