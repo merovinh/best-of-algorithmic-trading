@@ -97,6 +97,7 @@ projects:
     labels: ["python", "rust", "nodejs", "cplusplus", "csharp"]
   - name: pykalshi
     github_id: ArshKA/kalshi-client
+    pypi_id: pykalshi
     category: libraries-api
     labels: ["python"]
   - name: CCXT
