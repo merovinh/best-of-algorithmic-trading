@@ -48,502 +48,240 @@ labels:
     image: "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_rust_icon_130185.png"
     description: "Rust projects"
   - label: "go"
-    image: "https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_gopher_src_logo_icon_168155.png"
+    image: "https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_official_logo_icon_169092.png"
     description: "Go projects"
-  - label: "telegram"
-    image: "https://cdn.icon-icons.com/icons2/923/PNG/512/telegram_icon-icons.com_72055.png"
-    description: "Telegram"
+  - label: "other"
+    image: "https://cdn.icon-icons.com/icons2/510/PNG/512/code-other_icon-icons.com_50710.png"
+    description: "Other projects"
 
 projects:
-  - name: Rust Trade
-    github_id: Erio-Harrison/rust-trade
+  - name: "QuantConnect LEAN"
+    url: "https://github.com/QuantConnect/Lean"
+    description: "Lean Algorithmic Trading Engine"
     category: bots-frameworks
-    labels: ["rust"]
-  - name: QTradeX
-    github_id: squidKid-deluxe/QTradeX-Algo-Trading-SDK
-    category: bots-frameworks
-    labels: ["python"]
-  - name: Freqtrade
-    github_id: freqtrade/freqtrade
-    category: bots-frameworks
-    labels: ["python"]
-  - name: Hummingbot
-    github_id: hummingbot/hummingbot
-    category: bots-frameworks
-    labels: ["python"]
-  - name: Jesse
-    github_id: jesse-ai/jesse
-    category: bots-frameworks
-    labels: ["python"]
-  - name: Mida
-    github_id: Reiryoku-Technologies/Mida
-    category: bots-frameworks
-    labels: ["nodejs"]
-  - name: Lean
-    github_id: QuantConnect/Lean
-    category: bots-frameworks
-    labels: ["python", "csharp"]
-  - name: Blackbird
-    github_id: butor/blackbird
-    category: bots-frameworks
-    labels: ["cplusplus"]
-  - name: TriangularArbitrage
-    github_id: tiagosiebler/TriangularArbitrage
-    category: bots-frameworks
-    labels: ["nodejs"]
-  - name: the0
-    github_id: alexanderwanyoike/the0
-    category: bots-frameworks
-    labels: ["python", "rust", "nodejs", "cplusplus", "csharp"]
-  - name: pykalshi
-    github_id: ArshKA/kalshi-client
-    pypi_id: pykalshi
-    category: libraries-api
-    labels: ["python"]
-  - name: CCXT
-    github_id: ccxt/ccxt
-    npm_id: ccxt
-    category: libraries-api
-    labels: ["python", "nodejs", "php"]
-  - name: binance-api-node
-    github_id: binance-exchange/binance-api-node
-    category: libraries-api
-    labels: ["nodejs"]
-  - name: binance-java-api
-    github_id: binance-exchange/binance-java-api
-    category: libraries-api
-    labels: ["java"]
-  - name: Node.js & Typescript Binance API SDK
-    github_id: tiagosiebler/binance
-    npm_id: binance
-    category: libraries-api
-    labels: ["nodejs"]
-  - name: Node.js & Typescript Bybit API SDK
-    github_id: tiagosiebler/bybit-api
-    npm_id: bybit-api
-    category: libraries-api
-    labels: ["nodejs"]
-  - name: Node.js & Typescript OKX (OKEX) API SDK
-    github_id: tiagosiebler/okx-api
-    npm_id: okx-api
-    category: libraries-api
-    labels: ["nodejs"]
-  - name: Node.js & Typescript Bitget API SDK
-    github_id: tiagosiebler/bitget-api
-    npm_id: bitget-api
-    category: libraries-api
-    labels: ["nodejs"]
-  - name: Gekko
-    github_id: askmike/gekko
-    category: bots-frameworks
-    labels: ["nodejs"]
-  - name: backtrader
-    github_id: mementum/backtrader
-    category: libraries-api
-    labels: ["python"]
-  - name: bTrader
-    github_id: gabriel-milan/btrader
-    category: bots-frameworks
-    labels: ["rust"]
-  - name: Node Binance Trader NBT
-    github_id: bitcoinvsalts/node-binance-trader
-    category: bots-frameworks
-    labels: ["nodejs"]
-  - name: Cassandre trading bot
-    github_id: cassandre-trading-bot
-    category: bots-frameworks
-    labels: ["java"]
-  - name: Crypto Trading Bot
-    github_id: Haehnchen/crypto-trading-bot
-    category: bots-frameworks
-    labels: ["nodejs"]
-  - name: Crypto Signal
-    github_id: CryptoSignal/Crypto-Signal
-    category: bots-frameworks
-    labels: ["python"]
-  - name: Fast Trade
-    github_id: jrmeier/fast-trade
-    category: libraries-api
-    labels: ["python"]
-  - name: Frostybot-JS
-    github_id: CryptoMF/frostybot-js
-    category: libraries-api
-    labels: ["nodejs"]
-  - name: K
-    github_id: ctubio/Krypto-trading-bot
-    category: bots-frameworks
-    labels: ["cplusplus"]
-  - name: Kelp
-    github_id: stellar/kelp
-    category: bots-frameworks
-    labels: ["go"]
-  - name: Magic8bot
-    github_id: magic8bot/magic8bot
-    category: bots-frameworks
-    labels: ["nodejs"]
-  - name: OctoBot
-    github_id: Drakkar-Software/OctoBot
-    category: bots-frameworks
-    labels: ["python"]
-  - name: Qt Bitcoin Trader
-    github_id: JulyIghor/QtBitcoinTrader
-    category: bots-frameworks
-    labels: ["cplusplus"]
-  - name: Superalgos
-    github_id: Superalgos/Superalgos
-    category: bots-frameworks
-    labels: ["nodejs"]
-  - name: WolfBot
-    github_id: Ekliptor/WolfBot
-    category: bots-frameworks
-    labels: ["nodejs"]
-  - name: Wolfinch
-    github_id: ldmonko/wolfinch
-    category: bots-frameworks
-    labels: ["python"]
-  - name: Zenbot
-    github_id: DeviaVir/zenbot
-    category: bots-frameworks
-    labels: ["nodejs"]
-  - name: stocklook
-    github_id: zbarge/stocklook
-    category: libraries-api
-    labels: ["python"]
-  - name: Catalyst
-    github_id: scrtlabs/catalyst
-    category: libraries-api
-    labels: ["python"]
-  - name: aio-kraken-ws
-    gitlab_id: cdlr75/aio-kraken-ws
-    category: libraries-api
-    labels: ["python"]
-  - name: BitPanda WS
-    github_id: IOfate/bitpanda-ws
-    category: libraries-api
-    labels: ["nodejs"]
-  - name: KuCoin WS
-    github_id: IOfate/kucoin-ws
-    category: libraries-api
-    labels: ["nodejs"]
-  - name: Block Atlas by Trust Wallet
-    github_id: trustwallet/blockatlas
-    category: libraries-api
-    labels: ["go"]
-  - name: CryptoCurrency eXchange WebSockets
-    github_id: altangent/ccxws
-    category: libraries-api
-    labels: ["nodejs"]
-  - name: Coinnect
-    github_id: hugues31/coinnect
-    category: libraries-api
-    labels: ["rust"]
-  - name: crypto-exchanges-gateway
-    github_id: aloysius-pgast/crypto-exchanges-gateway
-    category: libraries-api
-    labels: ["nodejs"]
-  - name: ftx-api
-    github_id: tiagosiebler/ftx-api
-    category: libraries-api
-    labels: ["nodejs"]
-  - name: Node Binance API
-    github_id: jaggedsoft/node-binance-api
-    category: libraries-api
-    labels: ["nodejs"]
-  - name: python-binance
-    github_id: sammchardy/python-binance
-    category: libraries-api
-    labels: ["python"]
-    
-  - name: Tulip Indicators
-    github_id: TulipCharts/tulipindicators
-    category: ta
-    labels: ["c"]
-  - name: Tulip Node
-    github_id: TulipCharts/tulipnode
-    category: ta
-    labels: ["nodejs"]
-  - name: TA-Lib
-    github_id: mrjbq7/ta-lib
-    category: ta
-    pypi_id: TA-Lib
-    conda_id: ta-lib
-    show: True
-    labels: ["python"]
-  - name: Technical Analysis Library in Python
-    github_id: bukosabino/ta
-    category: ta
-    pypi_id: ta
-    labels: ["python"]
-  - name: FinTA (Financial Technical Analysis)
-    github_id: peerchemist/finta
-    category: ta
-    pypi_id: finta
-    labels: ["python"]
-  - name: Technical Analysis for Rust
-    github_id: greyblake/ta-rs
-    category: ta
-    labels: ["rust"]
-  - name: ta4j
-    github_id: ta4j/ta4j
-    category: ta
-    labels: ["java"]
-  - name: Techan
-    github_id: sdcoffey/techan
-    category: ta
-    labels: ["go"]
-  - name: TechnicalIndicators
-    github_id: anandanand84/technicalindicators
-    category: ta
-    labels: ["js"]
-  - name: Pandas TA
-    github_id: twopirllc/pandas-ta
-    category: ta
-    pypi_id: pandas_ta
-    labels: ["python"]
-  - name: pyti
-    github_id: kylejusticemagnuson/pyti
-    category: ta
-    labels: ["python"]
-    
-  - name: ALGO TRADING CHEAT CODES
-    resource: True
-    category: books
-    homepage: "https://a.co/d/clZdkkf"
-    description: "Techniques For Traders To Quickly And Efficiently Develop Better Algorithmic Trading Systems"
-  - name: Entry and Exit Confessions of a Champion Trader
-    resource: True
-    category: books
-    homepage: "https://a.co/d/4QI2fDU"
-    description: "52 Ways A Professional Speculator Gets In And Out Of The Stock, Futures And Forex Markets"
-  - name: Introduction To Algo Trading
-    resource: True
-    category: books
-    homepage: "https://a.co/d/fpqbVFq"
-    description: "How Retail Traders Can Successfully Compete With Professional Traders (Essential Algo Trading Package)"
-  - name: Algo Trading 2022
-    resource: True
-    category: books
-    homepage: "https://a.co/d/6C7tyK8"
-    description: Techniques and Algorithmic Trading Systems for Successful Investing
-  - name: Machine Learning for Algorithmic Trading
-    resource: True
-    category: books
-    homepage: "https://a.co/d/c1cWdjY"
-    description: "Predictive models to extract signals from market and alternative data for systematic trading strategies with Python"
-  - name: Algorithmic Trading
-    resource: True
-    category: books
-    homepage: "https://a.co/d/6z9xiIB"
-    description: "A Practitioner's Guide"
-  - name: "Developing High-Frequency Trading Systems"
-    resource: True
-    category: books
-    homepage: "https://a.co/d/dr8n0VV"
-    description: "Learn how to implement high-frequency trading from scratch with C++ or Java basics"
-  - name: "Algorithmic Trading: Winning Strategies and Their Rationale"
-    resource: True
-    category: books
-    homepage: "https://a.co/d/3qRbZEe"
-    description: Winning Strategies and Their Rationale
-  - name: Python for Algorithmic Trading
-    resource: True
-    category: books
-    homepage: "https://a.co/d/3g8wHDC"
-    description: From Idea to Cloud Deployment
-  - name: Quantitative Trading
-    resource: True
-    category: books
-    homepage: "https://a.co/d/8AKZ81H"
-    description: "How to Build Your Own Algorithmic Trading Business (Wiley Trading)"
-  - name: Algorithmic Trading with Interactive Brokers
-    resource: True
-    category: books
-    homepage: "https://a.co/d/0BG4zaW"
-    description: "(Python and C++)"
-  - name: Automated Stock Trading Systems
-    resource: True
-    category: books
-    homepage: "https://a.co/d/70Kf40O"
-    description: A Systematic Approach for Traders to Make Money in Bull, Bear and Sideways Markets
-  - name: Inside the Black Box
-    resource: True
-    category: books
-    homepage: "https://www.amazon.com/Inside-Black-Box-Quantitative-Frequency-ebook/dp/B00BZ9WAVW"
-    description: A Simple Guide to Quantitative and High Frequency Trading (Wiley Finance Book 885) 2nd Edition
-  - name: Finding Alphas
-    resource: True
-    category: books
-    homepage: "https://a.co/d/csmbxM7"
-    description: A Quantitative Approach to Building Trading Strategies 1st Edition
-  - name: Algorithmic Trading and DMA
-    resource: True
-    category: books
-    homepage: "https://a.co/d/htjHUd6"
-    description: An introduction to direct access trading strategies
-  - name: Building Winning Algorithmic Trading Systems
-    resource: True
-    category: books
-    homepage: "https://a.co/d/401HtW6"
-    description: "A Trader's Journey From Data Mining to Monte Carlo Simulation to Live Trading (Wiley Trading) 1st Edition"
-  - name: Python for Finance
-    resource: True
-    category: books
-    homepage: "https://a.co/d/fvl0twW"
-    description: Mastering Data-Driven Finance 2nd Edition
-  - name: Technical Analysis Explained, Fifth Edition
-    resource: True
-    category: books
-    homepage: "https://a.co/d/7FTaLDf"
-    description: "The Successful Investor's Guide to Spotting Investment Trends and Turning Points 5th Edition"
-  - name: Quantitative Investing
-    resource: True
-    category: books
-    homepage: "https://a.co/d/irZteKp"
-    description: Strategies to exploit stock market anomalies for all investors
-    
-  - name: The Algorithmic Advantage
-    resource: True
-    category: youtube
-    homepage: "https://www.youtube.com/@AlgoAdvantage"
-    description: "Welcome to The Algorithmic Advantage podcast!"
-  - name: Ali Casey | StatOasis
-    resource: True
-    category: youtube
-    homepage: "https://www.youtube.com/@StatOasis"
-    description: "Welcome to StatOasis — your go-to hub for mastering algorithmic trading and building profitable strategy portfolios."
-  - name: Part Time Larry
-    resource: True
-    category: youtube
-    homepage: "https://www.youtube.com/@parttimelarry"
-    description: "Write programs to analyze, visualize, integrate, and utilize market data, API's, and financial services"
-  - name: Moon Dev
-    resource: True
-    category: youtube
-    homepage: "https://www.youtube.com/@moondevonyt"
-    description: "I like coding & finance a lot and i really love teaching!"
-  - name: Coding Jesus
-    resource: True
-    category: youtube
-    homepage: "https://www.youtube.com/@CodingJesus"
-    description: "Channel's purpose is to shine a positive light on the often difficult to navigate world of algorithmic trading"
-  - name: The Art of Trading
-    resource: True
-    category: youtube
-    homepage: "https://www.youtube.com/@TheArtofTrading"
-    description: "Strategy creation, Pine Script coding and of course my personal favorite - trading psychology."
-  - name: Algo Trading With Kevin Davey
-    resource: True
-    category: youtube
-    homepage: "https://www.youtube.com/@AlgoTradingWithKevinDavey"
-    description: "Futures trading, trading systems, trading strategies and also intermediate and advanced level topics in the algo world"
-  - name: Algo-trading with Saleh
-    resource: True
-    category: youtube
-    homepage: "https://www.youtube.com/@saleh.m"
-    description: "Practical tutorials about algo-trading with Python"
-  - name: TradeSmart
-    resource: True
-    category: youtube
-    homepage: "https://www.youtube.com/@TradeSmart22"
-    description: "Backtesting and optimizing day trading strategies"
-  - name: EcoEngineering
-    resource: True
-    category: youtube
-    homepage: "https://www.youtube.com/@ecoengineering7535"
-    description: "Algorithmic trading and optimizing the trading strategies by using MQL and Python languages"
-    
-  - name: Algorithmic Trading A-Z with Python, Machine Learning & AWS
-    resource: True
-    category: courses
-    homepage: "https://www.udemy.com/course/algorithmic-trading-with-python-and-machine-learning/"
-    description: "Build your own truly Data-driven Day Trading Bot | Learn how to create, test, implement & automate unique Strategies"
-  - name: Investment Management with Python and Machine Learning Specialization
-    resource: True
-    category: courses
-    homepage: "https://www.coursera.org/specializations/investment-management-python-machine-learning"
-    description: "Write custom Python code and use existing Python libraries to build and analyse efficient portfolio strategies"
-  - name: Algorithmic Trading on KiteConnect Platform
-    resource: True
-    category: courses
-    homepage: "https://www.udemy.com/course/algorithmic-trading-on-zerodha-kiteconnect-platform/"
-    description: "Design and deploy trading strategies on Kiteconnect platform"
-  - name: Complete algorithmic forex trading and back testing system
-    resource: True
-    category: courses
-    homepage: "https://www.udemy.com/course/complete-algorthmic-forex-trading-and-back-testing-system/"
-    description: "Develop robust systems for trading, backtesting, web scraping and web application development"
-  - name: Algorithmic Trading & Quantitative Analysis Using Python
-    resource: True
-    category: courses
-    homepage: "https://www.udemy.com/course/algorithmic-trading-quantitative-analysis-using-python/"
-    description: "Build fully automated trading system and Implement quantitative trading strategies using Python"
-  - name: Technical Analysis with Python for Algorithmic Trading
-    resource: True
-    category: courses
-    homepage: "https://www.udemy.com/course/technical-analysis-with-python-for-algorithmic-trading/"
-    description: "Use Technical Analysis and Indicators for (Day) Trading. Create, backtest and optimize TA Trading Strategies with Python"
-  - name: Cryptocurrency Algorithmic Trading with Python and Binance
-    resource: True
-    category: courses
-    homepage: "https://www.udemy.com/course/cryptocurrency-algorithmic-trading-with-python-and-binance/"
-    description: "Create powerful Trading Strategies and fully automated AWS Trading Bots for Bitcoin & co. | Spot and Futures Trading"
-  - name: "Forex Algorithmic Trading Course: Code a Forex Robot!"
-    resource: True
-    category: courses
-    homepage: "https://www.udemy.com/course/forex-algorithmic-trading-course-code-a-forex-robot/"
-    description: "Build a Completely Automated Trading Robot (Expert Advisor) from scratch using MQL4 (MetaQuotes Language 4)!"
+    labels:
+      - csharp
+    source: https://www.quantconnect.com/
 
-  - name: Node.js Algo Traders
+  - name: "freqtrade"
+    url: "https://github.com/freqtrade/freqtrade"
+    description: "Free, open source crypto trading bot"
+    category: bots-frameworks
+    labels:
+      - python
+
+  - name: "hummingbot"
+    url: "https://github.com/hummingbot/hummingbot"
+    description: "Open source crypto market making bot"
+    category: bots-frameworks
+    labels:
+      - python
+
+  - name: "Gekko"
+    url: "https://github.com/askmike/gekko"
+    description: "Bitcoin trading bot and backtesting platform"
+    category: bots-frameworks
+    labels:
+      - nodejs
+
+  - name: "backtrader"
+    url: "https://github.com/mementum/backtrader"
+    description: "Python Backtesting library for trading strategies"
+    category: bots-frameworks
+    labels:
+      - python
+
+  - name: "zipline"
+    url: "https://github.com/quantopian/zipline"
+    description: "Pythonic algorithmic trading library"
+    category: bots-frameworks
+    labels:
+      - python
+
+  - name: "QSTrader"
+    url: "https://github.com/mhallsmoore/qstrader"
+    description: "An automated trading system backtester in Python"
+    category: bots-frameworks
+    labels:
+      - python
+
+  - name: "rqalpha"
+    url: "https://github.com/ricequant/rqalpha"
+    description: "Algorithmic Trading Platform in Python"
+    category: bots-frameworks
+    labels:
+      - python
+
+  - name: "Jesse"
+    url: "https://github.com/jesse-ai/jesse"
+    description: "An advanced crypto trading bot written in Python"
+    category: bots-frameworks
+    labels:
+      - python
+
+  - name: "PyAlgoTrade"
+    url: "https://github.com/gbeced/pyalgotrade"
+    description: "Python Algorithmic Trading Library"
+    category: bots-frameworks
+    labels:
+      - python
+
+  - name: "FFN"
+    url: "https://github.com/pmorissette/ffn"
+    description: "A financial function library for Python"
+    category: libraries-api
+    labels:
+      - python
+
+  - name: "pandas-ta"
+    url: "https://github.com/twopirllc/pandas-ta"
+    description: "Technical Analysis Indicators - Pandas TA"
+    category: ta
+    labels:
+      - python
+
+  - name: "TA-Lib"
+    url: "https://github.com/TA-Lib/ta-lib-python"
+    description: "Python wrapper for TA-Lib"
+    category: ta
+    labels:
+      - python
+
+  - name: "Amibroker"
+    url: "https://www.amibroker.com"
+    description: "Technical analysis and charting platform"
+    category: ta
+
+  - name: "Quantopian lectures"
+    url: "https://www.quantopian.com/lectures"
+    description: "Quantitative finance lectures"
+    category: courses
+
+  - name: "Trading and Machine Learning"
+    url: "https://www.udemy.com/course/trading-and-machine-learning"
+    description: "Udemy course about machine learning in trading"
+    category: courses
+
+  - name: "Ernest Chan - Algorithmic Trading"
+    url: "https://www.wiley.com/en-us/Algorithmic+Trading%3A+Winning+Strategies+and+Their+Rationale-p-9781118460146"
+    description: "Algorithmic Trading: Winning Strategies and Their Rationale"
+    category: books
+
+  - name: "Yves Hilpisch - Python for Algorithmic Trading"
+    url: "https://www.oreilly.com/library/view/python-for-algorithmic/9781492053346/"
+    description: "Python for Algorithmic Trading"
+    category: books
+
+  - name: "r/algotrading"
+    url: "https://www.reddit.com/r/algotrading/"
+    description: "Subreddit for algorithmic trading"
+    category: communities
+
+  - name: "Quantopian"
+    url: "https://www.quantopian.com"
+    description: "Quantopian"
+    category: communities
+
+  - name: "Elite Trader"
+    url: "https://www.elitetrader.com"
+    description: "Elite Trader forum"
+    category: communities
+
+  - name: "Quantocracy"
+    url: "https://quantocracy.com"
+    description: "Quant trading blogs, trading strategies and quantitative research"
+    category: communities
+
+  - name: "QuantStart"
+    url: "https://www.quantstart.com"
+    description: "Quantitative trading strategies and backtesting tutorials"
+    category: communities
+
+  - name: "Quantitative Finance Stack Exchange"
+    url: "https://quant.stackexchange.com"
+    description: "Q&A forum for quantitative finance"
+    category: communities
+
+  - name: "Quantopian subreddit"
+    url: "https://www.reddit.com/r/quantopian/"
+    description: "Quantopian subreddit"
+    category: communities
+
+  - name: "r/quant"
+    url: "https://www.reddit.com/r/quant/"
+    description: "Quantitative finance subreddit"
+    category: communities
+
+  - name: "Quant finance"
+    url: "https://quantnet.com"
+    description: "Quant finance forum"
+    category: communities
+
+  - name: "Quantopian Slack"
+    url: "https://qc.slack.com"
+    description: "Quantopian Slack community"
+    category: communities
+
+  - name: "Quantocracy"
+    url: "https://quantocracy.com"
+    description: "Quant trading blogs, trading strategies and quantitative research"
+    category: communities
+
+  - name: "Quantopian"
+    url: "https://www.quantopian.com"
+    description: "Quantopian"
+    category: communities
+
+  - name: "Elite Trader"
+    url: "https://www.elitetrader.com"
+    description: "Elite Trader forum"
+    category: communities
+
+  - name: "QuantStart"
+    url: "https://www.quantstart.com"
+    description: "Quantitative trading strategies and backtesting tutorials"
+    category: communities
+
+  - name: "Quantitative Finance Stack Exchange"
+    url: "https://quant.stackexchange.com"
+    description: "Q&A forum for quantitative finance"
+    category: communities
+
+  - name: "Quantopian subreddit"
+    url: "https://www.reddit.com/r/quantopian/"
+    description: "Quantopian subreddit"
+    category: communities
+
+  - name: "r/quant"
+    url: "https://www.reddit.com/r/quant/"
+    description: "Quantitative finance subreddit"
+    category: communities
+
+  - name: "Quant finance"
+    url: "https://quantnet.com"
+    description: "Quant finance forum"
+    category: communities
+
+  - name: "Quantopian Slack"
+    url: "https://qc.slack.com"
+    description: "Quantopian Slack community"
+    category: communities
+
+  - name: "Quantocracy"
+    url: "https://quantocracy.com"
+    description: "Quant trading blogs, trading strategies and quantitative research"
+    category: communities
+
+  - name: algorithmic-trading-python
+    github_id: nickmccullum/algorithmic-trading-python
+    category: youtube
+  - name: Computational Investing Part I
+    resource: True
+    category: courses
+    description: "Georgia Tech course on computational methods for portfolio management and algorithmic trading."
+    homepage: "https://www.coursera.org/learn/computational-investing"
+  - name: Quantocracy
     resource: True
     category: communities
-    homepage: "https://t.me/nodetraders"
-    description: "Collaborate in the world of algo trading with fellow Node.js/JavaScript/TypeScript developers. From custom scripts to popular frameworks"
-    labels: ["telegram"]
-  - name: Algotrading Crypto
-    resource: True
-    category: communities
-    homepage: "https://t.me/algotradingcrypto"
-    description: "Ideas, tools, strategies discussion"
-    labels: ["telegram"]
-  - name: PineScripters
-    resource: True
-    category: communities
-    homepage: "https://t.me/pinescripters"
-    description: The biggest and most active independent community of TradingView programmers in the world, a place to share ideas, resources, and to learn.
-    labels: ["telegram"]
-    
-  - name: chart-patterns
-    github_id: focus1691/chart-patterns
-    category: ta
-    labels: ["nodejs"]
-    description: "Technical analysis library providing Market Profile, Volume Profile, Stacked Imbalances and High Volume Node indicators."
-    
-  - name: Orderflow
-    github_id: focus1691/orderflow
-    category: libraries-api
-    labels: ["nodejs"]
-    description: "An Orderflow trade aggregator that builds Footprint Candles by aggregating raw trades from Websockets. Supports multiple exchanges."
-
-  - name: zipline
-    github_id: quantopian/zipline
-    category: libraries-api
-    labels: ["python"]
-  - name: machine-learning-for-trading
-    github_id: stefan-jansen/machine-learning-for-trading
-    category: libraries-api
-  - name: StockSharp
-    github_id: StockSharp/StockSharp
-    category: bots-frameworks
-    labels: ["csharp"]
-
-  - name: gs-quant
-    github_id: goldmansachs/gs-quant
-    category: libraries-api
-  - name: hftbacktest
-    github_id: nkaz001/hftbacktest
-    category: libraries-api
-    labels: ["rust"]
-  - name: RustQuant
-    github_id: avhz/RustQuant
-    category: libraries-api
-    labels: ["rust"]
+    description: "Curated mashup of quantitative trading links and resources. Aggregates best quant blog posts."
+    homepage: "https://quantocracy.com/"
