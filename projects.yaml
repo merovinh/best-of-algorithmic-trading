@@ -48,240 +48,49 @@ labels:
     image: "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_rust_icon_130185.png"
     description: "Rust projects"
   - label: "go"
-    image: "https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_official_logo_icon_169092.png"
+    image: "https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_official_logo_icon_167559.png"
     description: "Go projects"
-  - label: "other"
-    image: "https://cdn.icon-icons.com/icons2/510/PNG/512/code-other_icon-icons.com_50710.png"
-    description: "Other projects"
+  - label: "scala"
+    image: "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_scala_icon_130217.png"
+    description: "Scala projects"
+  - label: "haskell"
+    image: "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_haskell_icon_130189.png"
+    description: "Haskell projects"
+  - label: "kotlin"
+    image: "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_kotlin_icon_130487.png"
+    description: "Kotlin projects"
+  - label: "swift"
+    image: "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_swift_icon_130484.png"
+    description: "Swift projects"
+  - label: "r"
+    image: "https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_r_icon_130212.png"
+    description: "R projects"
+  - label: "matlab"
+    image: "https://cdn.icon-icons.com/icons2/3053/PNG/512/matlab_logo_icon_189995.png"
+    description: "Matlab projects"
+  - label: "julia"
+    image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/1200px-Julia_Programming_Language_Logo.svg.png"
+    description: "Julia projects"
+  - label: "cpp"
+    image: "https://cdn.icon-icons.com/icons2/2148/PNG/512/c_icon_132529.png"
+    description: "C++ projects"
+  - label: "jupyter"
+    image: "https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg"
+    description: "Jupyter notebooks"
 
-projects:
-  - name: "QuantConnect LEAN"
-    url: "https://github.com/QuantConnect/Lean"
-    description: "Lean Algorithmic Trading Engine"
+projects: []
+
+  - name: Lean
+    github_id: QuantConnect/Lean
     category: bots-frameworks
-    labels:
-      - csharp
-    source: https://www.quantconnect.com/
-
-  - name: "freqtrade"
-    url: "https://github.com/freqtrade/freqtrade"
-    description: "Free, open source crypto trading bot"
-    category: bots-frameworks
-    labels:
-      - python
-
-  - name: "hummingbot"
-    url: "https://github.com/hummingbot/hummingbot"
-    description: "Open source crypto market making bot"
-    category: bots-frameworks
-    labels:
-      - python
-
-  - name: "Gekko"
-    url: "https://github.com/askmike/gekko"
-    description: "Bitcoin trading bot and backtesting platform"
-    category: bots-frameworks
-    labels:
-      - nodejs
-
-  - name: "backtrader"
-    url: "https://github.com/mementum/backtrader"
-    description: "Python Backtesting library for trading strategies"
-    category: bots-frameworks
-    labels:
-      - python
-
-  - name: "zipline"
-    url: "https://github.com/quantopian/zipline"
-    description: "Pythonic algorithmic trading library"
-    category: bots-frameworks
-    labels:
-      - python
-
-  - name: "QSTrader"
-    url: "https://github.com/mhallsmoore/qstrader"
-    description: "An automated trading system backtester in Python"
-    category: bots-frameworks
-    labels:
-      - python
-
-  - name: "rqalpha"
-    url: "https://github.com/ricequant/rqalpha"
-    description: "Algorithmic Trading Platform in Python"
-    category: bots-frameworks
-    labels:
-      - python
-
-  - name: "Jesse"
-    url: "https://github.com/jesse-ai/jesse"
-    description: "An advanced crypto trading bot written in Python"
-    category: bots-frameworks
-    labels:
-      - python
-
-  - name: "PyAlgoTrade"
-    url: "https://github.com/gbeced/pyalgotrade"
-    description: "Python Algorithmic Trading Library"
-    category: bots-frameworks
-    labels:
-      - python
-
-  - name: "FFN"
-    url: "https://github.com/pmorissette/ffn"
-    description: "A financial function library for Python"
-    category: libraries-api
-    labels:
-      - python
-
-  - name: "pandas-ta"
-    url: "https://github.com/twopirllc/pandas-ta"
-    description: "Technical Analysis Indicators - Pandas TA"
-    category: ta
-    labels:
-      - python
-
-  - name: "TA-Lib"
-    url: "https://github.com/TA-Lib/ta-lib-python"
-    description: "Python wrapper for TA-Lib"
-    category: ta
-    labels:
-      - python
-
-  - name: "Amibroker"
-    url: "https://www.amibroker.com"
-    description: "Technical analysis and charting platform"
-    category: ta
-
-  - name: "Quantopian lectures"
-    url: "https://www.quantopian.com/lectures"
-    description: "Quantitative finance lectures"
-    category: courses
-
-  - name: "Trading and Machine Learning"
-    url: "https://www.udemy.com/course/trading-and-machine-learning"
-    description: "Udemy course about machine learning in trading"
-    category: courses
-
-  - name: "Ernest Chan - Algorithmic Trading"
-    url: "https://www.wiley.com/en-us/Algorithmic+Trading%3A+Winning+Strategies+and+Their+Rationale-p-9781118460146"
-    description: "Algorithmic Trading: Winning Strategies and Their Rationale"
+    labels: ["csharp"]
+  - name: Algorithmic Trading: Winning Strategies and Their Rationale
+    resource: True
     category: books
-
-  - name: "Yves Hilpisch - Python for Algorithmic Trading"
-    url: "https://www.oreilly.com/library/view/python-for-algorithmic/9781492053346/"
-    description: "Python for Algorithmic Trading"
-    category: books
-
-  - name: "r/algotrading"
-    url: "https://www.reddit.com/r/algotrading/"
-    description: "Subreddit for algorithmic trading"
-    category: communities
-
-  - name: "Quantopian"
-    url: "https://www.quantopian.com"
-    description: "Quantopian"
-    category: communities
-
-  - name: "Elite Trader"
-    url: "https://www.elitetrader.com"
-    description: "Elite Trader forum"
-    category: communities
-
-  - name: "Quantocracy"
-    url: "https://quantocracy.com"
-    description: "Quant trading blogs, trading strategies and quantitative research"
-    category: communities
-
-  - name: "QuantStart"
-    url: "https://www.quantstart.com"
-    description: "Quantitative trading strategies and backtesting tutorials"
-    category: communities
-
-  - name: "Quantitative Finance Stack Exchange"
-    url: "https://quant.stackexchange.com"
-    description: "Q&A forum for quantitative finance"
-    category: communities
-
-  - name: "Quantopian subreddit"
-    url: "https://www.reddit.com/r/quantopian/"
-    description: "Quantopian subreddit"
-    category: communities
-
-  - name: "r/quant"
-    url: "https://www.reddit.com/r/quant/"
-    description: "Quantitative finance subreddit"
-    category: communities
-
-  - name: "Quant finance"
-    url: "https://quantnet.com"
-    description: "Quant finance forum"
-    category: communities
-
-  - name: "Quantopian Slack"
-    url: "https://qc.slack.com"
-    description: "Quantopian Slack community"
-    category: communities
-
-  - name: "Quantocracy"
-    url: "https://quantocracy.com"
-    description: "Quant trading blogs, trading strategies and quantitative research"
-    category: communities
-
-  - name: "Quantopian"
-    url: "https://www.quantopian.com"
-    description: "Quantopian"
-    category: communities
-
-  - name: "Elite Trader"
-    url: "https://www.elitetrader.com"
-    description: "Elite Trader forum"
-    category: communities
-
-  - name: "QuantStart"
-    url: "https://www.quantstart.com"
-    description: "Quantitative trading strategies and backtesting tutorials"
-    category: communities
-
-  - name: "Quantitative Finance Stack Exchange"
-    url: "https://quant.stackexchange.com"
-    description: "Q&A forum for quantitative finance"
-    category: communities
-
-  - name: "Quantopian subreddit"
-    url: "https://www.reddit.com/r/quantopian/"
-    description: "Quantopian subreddit"
-    category: communities
-
-  - name: "r/quant"
-    url: "https://www.reddit.com/r/quant/"
-    description: "Quantitative finance subreddit"
-    category: communities
-
-  - name: "Quant finance"
-    url: "https://quantnet.com"
-    description: "Quant finance forum"
-    category: communities
-
-  - name: "Quantopian Slack"
-    url: "https://qc.slack.com"
-    description: "Quantopian Slack community"
-    category: communities
-
-  - name: "Quantocracy"
-    url: "https://quantocracy.com"
-    description: "Quant trading blogs, trading strategies and quantitative research"
-    category: communities
-
-  - name: algorithmic-trading-python
-    github_id: nickmccullum/algorithmic-trading-python
+    description: "By Ernest Chan. Practical guide to implementing quantitative trading strategies with real examples."
+    homepage: "https://a.co/d/6BqD1W1"
+  - name: Dimitri Bianco
+    resource: True
     category: youtube
-  - name: Computational Investing Part I
-    resource: True
-    category: courses
-    description: "Georgia Tech course on computational methods for portfolio management and algorithmic trading."
-    homepage: "https://www.coursera.org/learn/computational-investing"
-  - name: Quantocracy
-    resource: True
-    category: communities
-    description: "Curated mashup of quantitative trading links and resources. Aggregates best quant blog posts."
-    homepage: "https://quantocracy.com/"
+    description: "Quantitative analysis, portfolio optimization, and financial data science tutorials."
+    homepage: "https://www.youtube.com/@DimitriBiworker"
