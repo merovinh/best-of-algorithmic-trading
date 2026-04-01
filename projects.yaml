@@ -547,3 +547,9 @@ projects:
     github_id: avhz/RustQuant
     category: libraries-api
     labels: ["rust"]
+
+  - name: PredScope
+    homepage: "https://predscope.com"
+    resource: True
+    category: libraries-api
+    description: "Free prediction market tracker and analytics platform. Tracks 1,200+ Polymarket events with real-time odds, analysis, and a free REST API (https://predscope.com/api/)."
