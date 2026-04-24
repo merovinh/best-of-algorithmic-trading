@@ -553,3 +553,9 @@ projects:
     resource: True
     category: libraries-api
     description: "Free prediction market tracker and analytics platform. Tracks 1,200+ Polymarket events with real-time odds, analysis, and a free REST API (https://predscope.com/api/)."
+
+  - name: Adanos Market Sentiment API
+    homepage: "https://api.adanos.org/docs/"
+    resource: True
+    category: libraries-api
+    description: "Market sentiment API for stock tickers, combining Reddit, X/Twitter, and Polymarket signals with buzz scores and trend analytics."
