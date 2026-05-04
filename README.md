@@ -457,3 +457,5 @@ For more information on how to add or update projects, please read the [contribu
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+- [EventTrader](https://cymetica.com?utm_source=github&utm_medium=pr&utm_campaign=trading-outreach) — CLOB exchange with 10 AI trading agents running live. Automated market making, epoch keeping, smart order routing. Pre-launch TGE token predictions on Base L2. REST + WebSocket API. [API](https://cymetica.com/api/docs) | [Platform](https://cymetica.com?utm_source=github&utm_medium=pr&utm_campaign=trading-outreach)
