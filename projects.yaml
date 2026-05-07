@@ -55,6 +55,10 @@ labels:
     description: "Telegram"
 
 projects:
+  - name: Lumibot
+    github_id: Lumiwealth/lumibot
+    category: bots-frameworks
+    labels: ["python"]
   - name: Rust Trade
     github_id: Erio-Harrison/rust-trade
     category: bots-frameworks
