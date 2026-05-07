@@ -413,7 +413,12 @@ projects:
     category: books
     homepage: "https://a.co/d/irZteKp"
     description: Strategies to exploit stock market anomalies for all investors
-    
+
+  - name: MemLabs
+    resource: True
+    category: youtube
+    homepage: "https://www.youtube.com/@memlabs-research"
+    description: "Ex-HFT Quant Trader making technical videos in my spare time."
   - name: The Algorithmic Advantage
     resource: True
     category: youtube
