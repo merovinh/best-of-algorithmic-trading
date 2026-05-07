@@ -59,6 +59,10 @@ projects:
     github_id: Erio-Harrison/rust-trade
     category: bots-frameworks
     labels: ["rust"]
+  - name: DeepAlpha
+    github_id: stefanoviana/deepalpha
+    category: bots-frameworks
+    labels: ["python"]
   - name: QTradeX
     github_id: squidKid-deluxe/QTradeX-Algo-Trading-SDK
     category: bots-frameworks
