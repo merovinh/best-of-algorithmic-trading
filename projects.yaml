@@ -577,3 +577,9 @@ projects:
     resource: True
     category: libraries-api
     description: "Market sentiment API for stock tickers, combining Reddit, X/Twitter, and Polymarket signals with buzz scores and trend analytics."
+  - name: Helium MCP
+    github_id: connerlambden/helium-mcp
+    homepage: https://heliumtrades.com/mcp-page/
+    category: libraries-api
+    labels: ["python"]
+    description: Free REST + MCP API for ML-derived options pricing (per-symbol fair value, prob_ITM, Greeks) and 31-dim news bias scoring across 3.2M+ articles. 10 endpoints, JSON in/out, 50 free queries by IP, no signup.
