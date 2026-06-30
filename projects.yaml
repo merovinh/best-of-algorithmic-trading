@@ -517,12 +517,6 @@ projects:
     homepage: "https://t.me/nodetraders"
     description: "Collaborate in the world of algo trading with fellow Node.js/JavaScript/TypeScript developers. From custom scripts to popular frameworks"
     labels: ["telegram"]
-  - name: Algotrading Crypto
-    resource: True
-    category: communities
-    homepage: "https://t.me/algotradingcrypto"
-    description: "Ideas, tools, strategies discussion"
-    labels: ["telegram"]
   - name: PineScripters
     resource: True
     category: communities
