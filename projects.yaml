@@ -543,6 +543,11 @@ projects:
   - name: machine-learning-for-trading
     github_id: stefan-jansen/machine-learning-for-trading
     category: libraries-api
+  - name: ml-quant-trading
+    github_id: initial-d/ml-quant-trading
+    category: libraries-api
+    labels: ["python"]
+    description: "PyTorch research stack for multi-factor modeling, portfolio optimization, and vectorized backtesting."
   - name: StockSharp
     github_id: StockSharp/StockSharp
     category: bots-frameworks
