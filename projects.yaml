@@ -576,3 +576,9 @@ projects:
     resource: True
     category: libraries-api
     description: "Market sentiment API for stock tickers, combining Reddit, X/Twitter, and Polymarket signals with buzz scores and trend analytics."
+
+  - name: AlphaAI
+    homepage: "https://alphai.io/developers"
+    resource: True
+    category: libraries-api
+    description: "AI-scored financial news API for trading bots: 1-10 relevance per article, ticker-linked, plus SEC Form 4 insider events. REST and MCP, free tier."
