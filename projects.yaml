@@ -577,6 +577,11 @@ projects:
     category: libraries-api
     description: "Market sentiment API for stock tickers, combining Reddit, X/Twitter, and Polymarket signals with buzz scores and trend analytics."
 
+  - name: Shingou
+    homepage: "https://shingou.io/docs"
+    resource: True
+    category: libraries-api
+    description: "Crypto news sentiment API. One signal per symbol per hour, with typed market events and point-in-time history for backtesting. Free tier covers BTC, ETH and SOL live."
   - name: AlphaAI
     homepage: "https://alphai.io/developers"
     resource: True
