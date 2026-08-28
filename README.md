@@ -10,21 +10,21 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-43-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-45-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/merovinh/best-of-algorithmic-trading/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/merovinh/best-of-algorithmic-trading?color=green&label=updated"></a>
 </p>
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua/)
 
-This curated list contains 43 awesome open-source projects with a total of 1 stars grouped into 7 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/merovinh/best-of-algorithmic-trading/issues/new/choose), submit a [pull request](https://github.com/merovinh/best-of-algorithmic-trading/pulls), or directly edit the [projects.yaml](https://github.com/merovinh/best-of-algorithmic-trading/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 45 awesome open-source projects with a total of 1 stars grouped into 7 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/merovinh/best-of-algorithmic-trading/issues/new/choose), submit a [pull request](https://github.com/merovinh/best-of-algorithmic-trading/pulls), or directly edit the [projects.yaml](https://github.com/merovinh/best-of-algorithmic-trading/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
 ## Contents
 
 - [Bots & Frameworks](#bots--frameworks) _0 projects_
-- [Libraries & API](#libraries--api) _3 projects_
+- [Libraries & API](#libraries--api) _5 projects_
 - [Technical analysis & Indicators](#technical-analysis--indicators) _0 projects_
 - [Books](#books) _19 projects_
 - [Youtube](#youtube) _11 projects_
@@ -73,6 +73,10 @@ This curated list contains 43 awesome open-source projects with a total of 1 sta
 🔗&nbsp;<b><a href="https://predscope.com">PredScope</a></b>  - Free prediction market tracker and analytics platform. Tracks 1,200+ Polymarket events with..
 
 🔗&nbsp;<b><a href="https://api.adanos.org/docs/">Adanos Market Sentiment API</a></b>  - Market sentiment API for stock tickers, combining Reddit, X/Twitter,..
+
+🔗&nbsp;<b><a href="https://shingou.io/docs">Shingou</a></b>  - Crypto news sentiment API. One signal per symbol per hour, with typed market events and point-..
+
+🔗&nbsp;<b><a href="https://alphai.io/developers">AlphaAI</a></b>  - AI-scored financial news API for trading bots: 1-10 relevance per article, ticker-linked, plus..
 
 <details><summary>Show 1 hidden projects...</summary>
 
