@@ -55,6 +55,10 @@ labels:
     description: "Telegram"
 
 projects:
+  - name: QuantDinger
+    github_id: OpenByteInc/QuantDinger
+    category: bots-frameworks
+    labels: ["python"]
   - name: Crypto Pump Scanner
     github_id: stefanoviana/crypto-pump-scanner
     category: bots-frameworks
