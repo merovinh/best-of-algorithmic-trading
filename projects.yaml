@@ -591,3 +591,9 @@ projects:
     resource: True
     category: libraries-api
     description: "AI-scored financial news API for trading bots: 1-10 relevance per article, ticker-linked, plus SEC Form 4 insider events. REST and MCP, free tier."
+
+  - name: 0xArchive
+    homepage: "https://0xarchive.io/"
+    resource: True
+    category: libraries-api
+    description: "Real-time and historical Hyperliquid and Lighter market data via REST and WebSocket APIs."
