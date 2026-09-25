@@ -597,3 +597,19 @@ projects:
     resource: True
     category: libraries-api
     description: "Real-time and historical Hyperliquid and Lighter market data via REST and WebSocket APIs."
+  - name: canli-backtest
+    github_id: arhancanli/canli-backtest
+    category: libraries-api
+    labels: ["python"]
+    description: "Backtester where look-ahead raises an error: decisions at the close of bar t fill at the open of t+1, funding and corporate actions replay point-in-time, and deflated Sharpe counts every trial."
+  - name: canli-pit-lake
+    github_id: arhancanli/canli-pit-lake
+    category: libraries-api
+    labels: ["python"]
+    description: "Point-in-time market data lake on DuckDB and Parquet. Every read takes an explicit as-of; corporate actions filter on when they became knowable; delisted names are kept."
+  - name: canli-validation-mcp
+    github_id: arhancanli/canlicapital
+    npm_id: canli-validation-mcp
+    category: libraries-api
+    labels: ["nodejs"]
+    description: "MCP server and free API that check a backtest before you trust it: deflated Sharpe, probability of backtest overfitting (CSCV) and breadth, each with a recomputable receipt."
