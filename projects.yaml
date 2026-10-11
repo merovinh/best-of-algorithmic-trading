@@ -55,6 +55,11 @@ labels:
     description: "Telegram"
 
 projects:
+  - name: Sharpen
+    github_id: bigcan/sharpen
+    category: bots-frameworks
+    labels: ["python"]
+    description: "Open-source agentic-AI quant strategy builder that tries to disprove a strategy before it ships; Crucible is its alpha-miner."
   - name: QuantDinger
     github_id: OpenByteInc/QuantDinger
     category: bots-frameworks
