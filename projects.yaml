@@ -608,3 +608,10 @@ projects:
     category: libraries-api
     labels: ["python", "nodejs"]
     description: "Sourced prop firm daily-loss and max-drawdown rules (FTMO, Topstep, Apex and more) with a zero-dependency JS/Python drawdown calculator, free REST API and MCP server."
+
+  - name: Equibles
+    github_id: daniel3303/Equibles
+    homepage: "https://equibles.com/mcp"
+    category: libraries-api
+    labels: ["csharp"]
+    description: "US stock market data over a hosted MCP server and a REST API: SEC filings, XBRL financial statements, earnings call transcripts, insider and congressional trades, 13F holdings and option chains. Self-hostable, free tier."
