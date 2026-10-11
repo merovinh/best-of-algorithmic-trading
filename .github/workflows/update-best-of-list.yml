@@ -43,11 +43,21 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: update-best-of-list
-        uses: best-of-lists/best-of-update-action@v0.8.5
+      - uses: actions/setup-python@v5
         with:
-          libraries_key: ${{ secrets.LIBRARIES_KEY }}
-          github_key: ${{ secrets.BEST_OF_GITHUB_KEY }}
+          python-version: "3.12"
+      # Same generator as best-of-update-action@v0.8.5, patched for the GitHub
+      # GraphQL change that forbids `repository.stargazers` to tokens.
+      - name: update-best-of-list
+        env:
+          LIBRARIES_KEY: ${{ secrets.LIBRARIES_KEY }}
+          GITHUB_KEY: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          pip install --no-cache-dir best-of==0.8.5
+          python .github/scripts/patch_best_of.py
+          ARGS="--github-key=$GITHUB_KEY"
+          if [ -n "$LIBRARIES_KEY" ]; then ARGS="$ARGS --libraries-key=$LIBRARIES_KEY"; fi
+          best-of generate $ARGS projects.yaml
       - name: push-update
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
