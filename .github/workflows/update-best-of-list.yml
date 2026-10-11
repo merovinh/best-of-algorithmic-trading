@@ -47,7 +47,7 @@ jobs:
         uses: best-of-lists/best-of-update-action@v0.8.5
         with:
           libraries_key: ${{ secrets.LIBRARIES_KEY }}
-          github_key: ${{ secrets.GITHUB_TOKEN }}
+          github_key: ${{ secrets.BEST_OF_GITHUB_KEY }}
       - name: push-update
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
