@@ -597,3 +597,9 @@ projects:
     resource: True
     category: libraries-api
     description: "Real-time and historical Hyperliquid and Lighter market data via REST and WebSocket APIs."
+
+  - name: prop-firm-rules
+    github_id: kburrus64-max/prop-firm-rules
+    category: libraries-api
+    labels: ["python", "nodejs"]
+    description: "Sourced prop firm daily-loss and max-drawdown rules (FTMO, Topstep, Apex and more) with a zero-dependency JS/Python drawdown calculator, free REST API and MCP server."
