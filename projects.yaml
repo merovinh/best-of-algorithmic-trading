@@ -55,6 +55,11 @@ labels:
     description: "Telegram"
 
 projects:
+  - name: Sharpen
+    github_id: bigcan/sharpen
+    category: bots-frameworks
+    labels: ["python"]
+    description: "Open-source agentic-AI quant strategy builder that tries to disprove a strategy before it ships; Crucible is its alpha-miner."
   - name: QuantDinger
     github_id: OpenByteInc/QuantDinger
     category: bots-frameworks
@@ -598,8 +603,15 @@ projects:
     category: libraries-api
     description: "Real-time and historical Hyperliquid and Lighter market data via REST and WebSocket APIs."
 
-  - name: Equibles
-    homepage: "https://equibles.com/mcp"
-    resource: True
+  - name: prop-firm-rules
+    github_id: kburrus64-max/prop-firm-rules
     category: libraries-api
-    description: "US stock market data over a hosted MCP server and a REST API: SEC filings, XBRL financial statements, earnings call transcripts, insider and congressional trades, 13F holdings and option chains. Free tier."
+    labels: ["python", "nodejs"]
+    description: "Sourced prop firm daily-loss and max-drawdown rules (FTMO, Topstep, Apex and more) with a zero-dependency JS/Python drawdown calculator, free REST API and MCP server."
+
+  - name: Equibles
+    github_id: daniel3303/Equibles
+    homepage: "https://equibles.com/mcp"
+    category: libraries-api
+    labels: ["csharp"]
+    description: "US stock market data over a hosted MCP server and a REST API: SEC filings, XBRL financial statements, earnings call transcripts, insider and congressional trades, 13F holdings and option chains. Self-hostable, free tier."
