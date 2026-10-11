@@ -8,6 +8,9 @@ categories:
     # subtitle: ""
   - category: "libraries-api"
     title: "Libraries & API"
+  - category: "data-services"
+    title: "Data & API Services"
+    subtitle: "Hosted commercial services without open-source code. Listed for reference, not ranked."
   - category: "ta"
     title: "Technical analysis & Indicators"
   - category: "books"
@@ -97,18 +100,10 @@ projects:
     github_id: jesse-ai/jesse
     category: bots-frameworks
     labels: ["python"]
-  - name: Mida
-    github_id: Reiryoku-Technologies/Mida
-    category: bots-frameworks
-    labels: ["nodejs"]
   - name: Lean
     github_id: QuantConnect/Lean
     category: bots-frameworks
     labels: ["python", "csharp"]
-  - name: Blackbird
-    github_id: butor/blackbird
-    category: bots-frameworks
-    labels: ["cplusplus"]
   - name: TriangularArbitrage
     github_id: tiagosiebler/TriangularArbitrage
     category: bots-frameworks
@@ -172,7 +167,7 @@ projects:
     category: bots-frameworks
     labels: ["nodejs"]
   - name: Cassandre trading bot
-    github_id: cassandre-trading-bot
+    github_id: cassandre-tech/cassandre-trading-bot
     category: bots-frameworks
     labels: ["java"]
   - name: Crypto Trading Bot
@@ -187,10 +182,6 @@ projects:
     github_id: jrmeier/fast-trade
     category: libraries-api
     labels: ["python"]
-  - name: Frostybot-JS
-    github_id: CryptoMF/frostybot-js
-    category: libraries-api
-    labels: ["nodejs"]
   - name: K
     github_id: ctubio/Krypto-trading-bot
     category: bots-frameworks
@@ -317,11 +308,6 @@ projects:
     github_id: anandanand84/technicalindicators
     category: ta
     labels: ["js"]
-  - name: Pandas TA
-    github_id: twopirllc/pandas-ta
-    category: ta
-    pypi_id: pandas_ta
-    labels: ["python"]
   - name: pyti
     github_id: kylejusticemagnuson/pyti
     category: ta
@@ -574,33 +560,27 @@ projects:
     category: libraries-api
     labels: ["rust"]
 
-  - name: PredScope
-    homepage: "https://predscope.com"
-    resource: True
-    category: libraries-api
-    description: "Free prediction market tracker and analytics platform. Tracks 1,200+ Polymarket events with real-time odds, analysis, and a free REST API (https://predscope.com/api/)."
-
   - name: Adanos Market Sentiment API
     homepage: "https://api.adanos.org/docs/"
     resource: True
-    category: libraries-api
+    category: data-services
     description: "Market sentiment API for stock tickers, combining Reddit, X/Twitter, and Polymarket signals with buzz scores and trend analytics."
 
   - name: Shingou
     homepage: "https://shingou.io/docs"
     resource: True
-    category: libraries-api
+    category: data-services
     description: "Crypto news sentiment API. One signal per symbol per hour, with typed market events and point-in-time history for backtesting. Free tier covers BTC, ETH and SOL live."
   - name: AlphaAI
     homepage: "https://alphai.io/developers"
     resource: True
-    category: libraries-api
+    category: data-services
     description: "AI-scored financial news API for trading bots: 1-10 relevance per article, ticker-linked, plus SEC Form 4 insider events. REST and MCP, free tier."
 
   - name: 0xArchive
     homepage: "https://0xarchive.io/"
     resource: True
-    category: libraries-api
+    category: data-services
     description: "Real-time and historical Hyperliquid and Lighter market data via REST and WebSocket APIs."
 
   - name: prop-firm-rules
