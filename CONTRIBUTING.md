@@ -33,6 +33,7 @@ Before opening an issue or pull request, please ensure that you adhere to the fo
     ```
 - Please create an individual issue or pull request for each project.
 - Please use the following title format for the issue or pull request: `Add project: project-name`.
+- Hosted commercial services without open-source code (APIs, data feeds, SaaS) go only into the `data-services` category as `resource: True` entries. Projects with a public GitHub repository should use `github_id` so they are ranked with the rest of the list.
 - If a project doesn't fit into any of the pre-existing categories, it should go under the `Others` category by not assigning any category. You can also suggest a new category via the add or update category template on the [issue page](https://github.com/merovinh/best-of-algorithmic-trading/issues/new/choose).
 
 ## Update a project
