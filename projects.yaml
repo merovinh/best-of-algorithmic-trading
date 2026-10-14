@@ -595,3 +595,9 @@ projects:
     category: libraries-api
     labels: ["csharp"]
     description: "US stock market data over a hosted MCP server and a REST API: SEC filings, XBRL financial statements, earnings call transcripts, insider and congressional trades, 13F holdings and option chains. Self-hostable, free tier."
+
+  - name: OpenBacktesting
+    github_id: lucidcog/openbacktesting
+    category: libraries-api
+    labels: ["python"]
+    description: "Python framework for single-asset historical backtesting with pandas statistics, indicators, and parameter optimization."
