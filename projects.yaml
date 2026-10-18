@@ -595,3 +595,10 @@ projects:
     category: libraries-api
     labels: ["csharp"]
     description: "US stock market data over a hosted MCP server and a REST API: SEC filings, XBRL financial statements, earnings call transcripts, insider and congressional trades, 13F holdings and option chains. Self-hostable, free tier."
+
+  - name: stochastly-calculators
+    github_id: Stochastly/stochastly-calculators
+    homepage: "https://stochastly.com/tools"
+    category: libraries-api
+    labels: ["js"]
+    description: "Backtest-validation calculators in TypeScript: deflated Sharpe ratio, minimum track record length, probability of backtest overfitting, prop firm challenge Monte Carlo and a Pine Script lookahead checker. MIT."
