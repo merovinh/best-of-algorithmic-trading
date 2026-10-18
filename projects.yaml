@@ -595,3 +595,11 @@ projects:
     category: libraries-api
     labels: ["csharp"]
     description: "US stock market data over a hosted MCP server and a REST API: SEC filings, XBRL financial statements, earnings call transcripts, insider and congressional trades, 13F holdings and option chains. Self-hostable, free tier."
+
+  - name: stochastly-mcp
+    github_id: Stochastly/stochastly-mcp
+    pypi_id: stochastly-mcp
+    homepage: "https://stochastly.com/product/mcp"
+    category: libraries-api
+    labels: ["python"]
+    description: "MCP server for the Stochastly desktop app (Windows, macOS): lets an AI agent build node-graph strategies, run local backtests and overfitting checks (deflated Sharpe, PBO). Requires the app, in free early access."
