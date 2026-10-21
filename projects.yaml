@@ -158,6 +158,11 @@ projects:
     github_id: mementum/backtrader
     category: libraries-api
     labels: ["python"]
+  - name: backtesting.py
+    github_id: kernc/backtesting.py
+    pypi_id: backtesting
+    category: libraries-api
+    labels: ["python"]
   - name: bTrader
     github_id: gabriel-milan/btrader
     category: bots-frameworks
