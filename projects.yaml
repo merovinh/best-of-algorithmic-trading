@@ -590,7 +590,7 @@ projects:
     description: "Real-time and historical Hyperliquid and Lighter market data via REST and WebSocket APIs."
 
   - name: FXMacroData
-    homepage: "https://fxmacrodata.com/documentation/reference?utm_source=github&utm_medium=referral&utm_campaign=best-of-algorithmic-trading&utm_content=readme"
+    homepage: "https://fxmacrodata.com/documentation/reference"
     resource: True
     category: data-services
     description: "Macroeconomic and central-bank data for 22 currencies from official sources: policy rates, inflation, GDP, jobs, bond yields, release calendar, FX and COT positioning. REST API and hosted MCP server, USD data free without a key."
