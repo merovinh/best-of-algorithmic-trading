@@ -564,6 +564,7 @@ projects:
     pypi_id: manifoldbt
     category: libraries-api
     labels: ["python", "rust"]
+    description: "Rust-core backtesting engine with a Python expression API: brackets, per-fill fees, sweeps, walk-forward and Monte Carlo. Closed-source core (wheels only), Apache 2.0 + Commons Clause, freemium."
 
   - name: Adanos Market Sentiment API
     homepage: "https://api.adanos.org/docs/"
