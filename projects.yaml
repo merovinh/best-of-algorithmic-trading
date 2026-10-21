@@ -581,6 +581,12 @@ projects:
     category: data-services
     description: "Macroeconomic and central-bank data for 22 currencies from official sources: policy rates, inflation, GDP, jobs, bond yields, release calendar, FX and COT positioning. REST API and hosted MCP server, USD data free without a key."
 
+  - name: Clear Street API
+    homepage: "https://docs.clearstreet.com"
+    resource: True
+    category: data-services
+    description: "Low-latency broker API for US stocks and options over REST and FIX, with fundamentals data."
+
   - name: Equibles
     github_id: daniel3303/Equibles
     homepage: "https://equibles.com/mcp"
