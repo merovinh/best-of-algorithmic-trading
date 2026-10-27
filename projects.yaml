@@ -103,6 +103,11 @@ projects:
     github_id: alexanderwanyoike/the0
     category: bots-frameworks
     labels: ["python", "rust", "nodejs", "cplusplus", "csharp"]
+  - name: PredixLab Signals
+    github_id: predixlab/predixlab-signals
+    category: bots-frameworks
+    labels: ["python"]
+    description: "Python pipeline for daily US stock signals and walk-forward backtests (Apache-2.0); market data not included. Not investment advice."
   - name: pykalshi
     github_id: ArshKA/kalshi-client
     pypi_id: pykalshi
