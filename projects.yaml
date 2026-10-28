@@ -545,6 +545,13 @@ projects:
     github_id: avhz/RustQuant
     category: libraries-api
     labels: ["rust"]
+  - name: 0xArchive Backtest
+    github_id: 0xArchiveIO/0xarchive-quant
+    pypi_id: 0xarchive-backtest
+    category: libraries-api
+    labels: ["python", "rust"]
+    description: "Hyperliquid perpetuals backtesting with a Rust engine, Python strategies, funding, fees, and slippage."
+
   - name: manifoldbt
     github_id: manifoldbt/manifoldbt
     pypi_id: manifoldbt
