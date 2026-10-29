@@ -304,6 +304,10 @@ projects:
     github_id: kylejusticemagnuson/pyti
     category: ta
     labels: ["python"]
+  - name: Edge GEX Lab
+    github_id: simonro/Edge-GEX-Lab
+    category: ta
+    labels: ["python"]
     
   - name: ALGO TRADING CHEAT CODES
     resource: True
