@@ -103,6 +103,11 @@ projects:
     github_id: alexanderwanyoike/the0
     category: bots-frameworks
     labels: ["python", "rust", "nodejs", "cplusplus", "csharp"]
+  - name: futu_algo
+    github_id: billpwchan/futu_algo
+    category: bots-frameworks
+    labels: ["python"]
+    description: "Hong Kong equities on the Futu OpenAPI: one strategy class drives both the backtester and the event-driven paper-trading engine, with next-open board-lot fills and dated HK statutory costs."
   - name: pykalshi
     github_id: ArshKA/kalshi-client
     pypi_id: pykalshi
