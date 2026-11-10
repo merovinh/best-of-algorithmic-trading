@@ -122,23 +122,53 @@ projects:
     category: libraries-api
     labels: ["java"]
   - name: Node.js & Typescript Binance API SDK
-    github_id: tiagosiebler/binance
+    github_id: sieblyio/binance
     npm_id: binance
     category: libraries-api
     labels: ["nodejs"]
   - name: Node.js & Typescript Bybit API SDK
-    github_id: tiagosiebler/bybit-api
+    github_id: sieblyio/bybit-api
     npm_id: bybit-api
     category: libraries-api
     labels: ["nodejs"]
   - name: Node.js & Typescript OKX (OKEX) API SDK
-    github_id: tiagosiebler/okx-api
+    github_id: sieblyio/okx-api
     npm_id: okx-api
     category: libraries-api
     labels: ["nodejs"]
   - name: Node.js & Typescript Bitget API SDK
-    github_id: tiagosiebler/bitget-api
+    github_id: sieblyio/bitget-api
     npm_id: bitget-api
+    category: libraries-api
+    labels: ["nodejs"]
+  - name: Node.js & Typescript Gate API SDK
+    github_id: sieblyio/gateio-api
+    npm_id: gateio-api
+    category: libraries-api
+    labels: ["nodejs"]
+  - name: Node.js & Typescript KuCoin API SDK
+    github_id: sieblyio/kucoin-api
+    npm_id: kucoin-api
+    category: libraries-api
+    labels: ["nodejs"]
+  - name: Node.js & Typescript Coinbase API SDK
+    github_id: sieblyio/coinbase-api
+    npm_id: coinbase-api
+    category: libraries-api
+    labels: ["nodejs"]
+  - name: Node.js & Typescript Kraken API SDK
+    github_id: sieblyio/kraken-api
+    npm_id: "@siebly/kraken-api"
+    category: libraries-api
+    labels: ["nodejs"]
+  - name: Node.js & Typescript HTX API SDK
+    github_id: sieblyio/htx-api
+    npm_id: "@siebly/htx-api"
+    category: libraries-api
+    labels: ["nodejs"]
+  - name: Node.js & Typescript Hyperliquid API SDK
+    github_id: sieblyio/hyperliquid-api
+    npm_id: "@siebly/hyperliquid-api"
     category: libraries-api
     labels: ["nodejs"]
   - name: Gekko
