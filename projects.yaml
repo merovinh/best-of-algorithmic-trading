@@ -343,6 +343,13 @@ projects:
     github_id: simonro/Edge-GEX-Lab
     category: ta
     labels: ["python"]
+  - name: OpenPineScript
+    github_id: be-thomas/OpenPineScript
+    npm_id: openpinescript
+    pypi_id: openpinescript
+    category: ta
+    labels: ["nodejs", "js", "python"]
+    description: "Pine Script v1–v6 compiler and runtime: indicators and strategy backtests on your own OHLCV data in Node.js, the browser or Python (PyPI wrapper over the same engine). GPL-3.0."
     
   - name: ALGO TRADING CHEAT CODES
     resource: True
