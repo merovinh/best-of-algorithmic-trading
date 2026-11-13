@@ -646,3 +646,8 @@ projects:
     category: libraries-api
     labels: ["csharp"]
     description: "US stock market data over a hosted MCP server and a REST API: SEC filings, XBRL financial statements, earnings call transcripts, insider and congressional trades, 13F holdings and option chains. Self-hostable, free tier."
+  - name: Crypto-Strategies
+    github_id: CacheCarti/Crypto-Strategies
+    category: libraries-api
+    labels: ["python"]
+    description: "Open corpus of ~2,700 crypto trading strategies with staged validation report cards"
