@@ -646,6 +646,14 @@ projects:
     category: libraries-api
     labels: ["csharp"]
     description: "US stock market data over a hosted MCP server and a REST API: SEC filings, XBRL financial statements, earnings call transcripts, insider and congressional trades, 13F holdings and option chains. Self-hostable, free tier."
+  - name: Tapetide Indian Stock Market MCP
+    github_id: Tapetide-hq/nse-bse-indian-stock-market-data-mcp
+    homepage: "https://tapetide.com/mcp"
+    npm_id: tapetide-mcp
+    pypi_id: tapetide-mcp
+    category: libraries-api
+    labels: ["nodejs"]
+    description: "Indian stock market (NSE and BSE) data over a hosted MCP server: 48 tools for about 8,000 stocks covering financials, a 326-ratio screener, technicals, FII/DII flows, option chains and filings. Remote (OAuth) or local via npx / uvx, free tier."
   - name: Crypto-Strategies
     github_id: CacheCarti/Crypto-Strategies
     category: libraries-api
